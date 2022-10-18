@@ -1,0 +1,3346 @@
+mpv Bhool.Bhulaiyaa.2.2022.1080p.Hindi.WEB-DL.H.264.DDP5.1-NbT.mkv Men\ \(2022\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/Men.2022.1080p.WEBRip.x264.AAC5.1-\[YTS.MX\].mp4 Watcher\ \(2022\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/Watcher.2022.1080p.WEBRip.x264.AAC5.1-\[YTS.MX\].mp4 The\ King\ of\ Comedy\ \(1982\)\ \[1080p\]/The.King.of.Comedy.1982.1080p.BluRay.x264.YIFY.mp4 2001\ A\ Space\ Odyssey\ \(1968\)\ \[BluRay\]\ \[1080p\]\ \[YTS.AM\]/2001.A.Space.Odyssey.1968.1080p.BluRay.x264-\[YTS.AM\].mp4 Donnie\ Darko\ DIRECTORS\ CUT\ \(2001\)\ \[1080p\]/Donnie.Darko.DIRECTORS.CUT.2001.1080p.BrRip.x264.YIFY.mp4 Eyes\ Wide\ Shut\ \(1999\)\ \[1080p\]/Eyes.Wide.Shut.1999.1080p.BluRay.x264.YIFY.mp4 Men\ \(2022\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/Men.2022.1080p.WEBRip.x264.AAC5.1-\[YTS.MX\].mp4 X\ \(2022\)\ \[1080p\]\ \[BluRay\]\ \[5.1\]\ \[YTS.MX\]/X.2022.1080p.BluRay.x264.AAC5.1-\[YTS.MX\].mp4
+unzip men-2022-english-yify-429654.zip
+mv Men.2022.1080p.WEB-DL.DDP5.1.Atmos.H.264-English.srt ~M/Men\ \(2022\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/Men.2022.1080p.WEBRip.x264.AAC5.1-\[YTS.MX\].srt
+rm men-2022-english-yify-429654.zip
+cd Men\ \(2022\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]
+u
+cd Animie
+cd Anime
+echo lf
+lf | echo
+lfub | cat
+echo $(lf)
+v edit
+lf -selection
+lf -doc
+p -S ueberzug
+~c/lf/scope
+~c/lf/scope wallpapers/current
+vi
+vim
+rm .viminfo
+p -Rs gvim
+v rust_tutorials/guessinggame/src/main.rs
+cd rust_tutorials
+cd tutorial1
+v tutorial1
+mpv 2001\ A\ Space\ Odyssey\ \(1968\)\ \[BluRay\]\ \[1080p\]\ \[YTS.AM\]/2001.A.Space.Odyssey.1968.1080p.BluRay.x264-\[YTS.AM\].mp4 Donnie\ Darko\ DIRECTORS\ CUT\ \(2001\)\ \[1080p\]/Donnie.Darko.DIRECTORS.CUT.2001.1080p.BrRip.x264.YIFY.mp4 Eyes\ Wide\ Shut\ \(1999\)\ \[1080p\]/Eyes.Wide.Shut.1999.1080p.BluRay.x264.YIFY.mp4 X\ \(2022\)\ \[1080p\]\ \[BluRay\]\ \[5.1\]\ \[YTS.MX\]/X.2022.1080p.BluRay.x264.AAC5.1-\[YTS.MX\].mp4 Watcher\ \(2022\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/Watcher.2022.1080p.WEBRip.x264.AAC5.1-\[YTS.MX\].mp4 The\ King\ of\ Comedy\ \(1982\)\ \[1080p\]/The.King.of.Comedy.1982.1080p.BluRay.x264.YIFY.mp4 Men\ \(2022\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/Men.2022.1080p.WEBRip.x264.AAC5.1-\[YTS.MX\].mp4
+mpv Grindhouse\ \(2007\)\ \[1080p\]\ \[BluRay\]\ \[5.1\]\ \[YTS.MX\]
+swayhide qbittorrent && sysact shutdown
+V /etc/hostname
+P -Ss xonotic
+P -S chaos
+P -Ss chaos
+P -Ss ad
+P -Ss 7ad
+P -Ss 0ad
+p -S 0ad
+P -S xonotic
+swayidle -w 'swaymsg "output * dpms off"' resume 'swaymsg "output * dpms on"'
+swayidle lock
+man swayidle
+vw syscat
+cd Transformers\ 3\ -\ Dark\ of\ the\ Moon\ \(2011\)\ \[1080p\]
+mpv Transformer.3.2011.1080p.BrRip.x264.YIFY.mp4
+cd Transformers\ \(2007\)\ \[1080p\]
+mpv Transformers.2007.1080p.BrRip.x264.YIFY.mp4
+man 5 kitty
+man 2 kitty
+man 1 kitty
+echo $SHELL
+where sh
+chsh
+cat /etc/shells
+v asdf.py
+mkdir polybar
+git clone https://www.github.com/bacara/powerline-for-polybar powerline-for-polybar
+sxiv 3_simple-right-to-left.png
+ks
+cd samples
+cd img
+v ~c/lf/lfrc
+p -S powerline
+p -S powerline polybar
+polybar
+man polybar
+swaybar
+chmod +x ~c/polybar/launch.sh
+.config/polybar/launch.sh
+v ~c/polybar/launch.sh
+p -Rs polybar
+mv .zip ~c/polybar
+cd ~c/polybar
+unzip .zip
+rm .zip
+cd dotfiles-master-waybar-.config-waybar
+mv .config ~c/waybar/cnf
+mv style.css style.css.bkp
+mv cnf/waybar/* .
+v style.css
+v config.bkp
+v .
+mv config cnf
+mv style.css cnf
+mv style.css.bkp style.css
+rm cnf -rf
+ls 
+cd powerline-for-polybar
+v powerline-for-polybar.config
+mv powerline-for-polybar.config ~c/sway/config.a
+mv ~c/sway/config.a ~c/waybar/config.a
+~c/waybar
+mv config config.bkp
+mv config.a config
+mv config.bkp config
+rm powerline-for-polybar -rf
+cd waybar
+v 2022153898.pdf
+z 2022153898.pdf
+z AdmitCard-220310097585.pdf
+swaymsg kill
+sysact "leave $WM"
+sysact "leave sway"
+cat where sysact
+cat $(where sysact)
+sysact "renew sway"
+echo $HOME
+while IFS= read -r i; do\
+  if [[ $(echo $i | cut -c 1) -ne "#" ]]; then\
+    export $i\
+  fi\
+done < "$XDG_CONFIG_HOME/user-dirs.dirs"\
+\
+
+echo $HOME/Music
+echo "$HOME/Music"
+pushd Music
+  pushd "$XDG_MUSIC_DIR"
+pushd $($XDG_MUSIC_DIR)
+echo "$HOME/Music" | pushd
+pushd $(echo $XDG_MUSIC_DIR)
+pushd $(echo "$XDG_MUSIC_DIR")
+pushd $(echo $(echo "$XDG_MUSIC_DIR"))
+pushd $HOME
+pushd $HOME/Music
+pushd "$HOME/Music"
+v ~c/user-dirs.dirs
+pushd $XDG_MUSIC_DIR
+  musicdir=$XDG_MUSIC_DIR\
+  pushd $musicdir\
+
+  musicdir="$XDG_MUSIC_DIR"; pushd $musicdir\
+
+spot https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN
+swaymsg "output * dpms on"
+swayidle -w \\
+         timeout 150 'swaymsg "output * dpms off"' \\
+         resume 'swaymsg "output * dpms on"' \\
+         before-sleep 'swaylock -f -i wallpapers/current'
+swayidle -w \\
+         timeout 5 'swaymsg "output * dpms off"' \\
+         resume 'swaymsg "output * dpms on"' \\
+         before-sleep 'swaylock -f -i wallpapers/current'
+pkill swayidle
+tail $(where sysace)
+tail $(where sysact)
+head $(where sysace)
+head $(where sysact)
+head $(where sysact) 20
+head $(where sysact) --lines=20
+head $(where update_repos)
+head $(where checkups)
+head $(where checkup)
+p -Ss dual function keys
+crontab -r
+crontab -h
+ls cron
+p -S interception-dual-function-keys
+V /etc/interception/dual-function-keys/caps
+mkdir /etc/interception/dual-function-keys/
+mkdir /etc/interception/dual-function-keys
+sudo mkdir /etc/interception/dual-function-keys
+p -S interception-tools
+man intercept
+intercept devnode
+uinput /etc/interception/dual-function-keys/caps.yaml
+cp /etc/interception/dual-function-keys/caps.yaml /etc/interception/udevmon.d
+sudo cp /etc/interception/dual-function-keys/caps.yaml /etc/interception/udevmon.d
+udevmon
+sudo rm /etc/interception/udevmon.d/caps.yaml
+udevmon -h
+intercept -g
+sudo systemctl enable udevmon
+journalctl -u udevmon
+echo $devnode
+cat /etc/interception/dual-function-keys/caps.yaml
+echo $DEVNODE
+intercept
+intercept -g devnode
+intercept -g $DEVNODE
+V /etc/interception/udevmon.d/my-keyboards.yaml
+sudo intercept
+sudo udevmon
+nice -n -20 udevmon -c asdf
+sudo systemctl restart udevmon
+sudo nice -n -20 udevmon -c asdf
+dual-function-keys
+sudo dual-function-keys
+sudo dual-function-keys -c /etc/interception/dual-function-keys/caps.yaml
+sudo xev
+wayland-scanner
+p -S wev
+p -Ss wev
+P -Ss wev
+P -S wev
+wev
+sudo nice -n -20 udevmon -c /etc/interception/dual-function-keys/caps.yaml
+V /etc/interception/dual-function-keys/caps.yaml
+sudo nice -n -20 udevmon -c /etc/interception/udevmon.d/my-keyboards.yaml
+P -Rs interception-dual-function-keys
+z result-card.pdf
+pacman -Ss whatsapp
+P -Ss whatsapp
+P -S gog-
+P -Ss gog-
+P -Ss gog- >> games.txt
+rm Sono\ Bisque\ Doll\ wa\ Koi\ wo\ Suru\ S01\ 1080p\ Dual\ Audio\ WEBRip\ DD+\ x265-EMBER -r
+rm Komi\ Cant\ Communicate\ -\ S01\ -\ MULTi\ 1080p\ WEB\ x264\ -NanDesuKa\ \(NF\) -r
+cd \[Anipakku\]\ Kaguya-sama\ wa\ Kokurasetai.\ Tensai-tachi\ no\ Renai\ Zunousen\ \(S01+S02+OVA\)\ \[BD\ 1080p\]\[HEVC\ x265\ 10bit\]\[Dual\ Audio\]\[Multi-Subs\]
+mpv \(1.\ Temporada\)\ Kaguya-sama\ wa\ Kokurasetai.\ Tensai-tachi\ no\ Renai\ Zunousen/\[Anipakku\]\ Kaguya-sama\ wa\ Kokurasetai.\ Tensai-tachi\ no\ Renai\ Zunousen\ 02.mkv
+mpv \[Rip\ Time\]\ The\ Seven\ Deadly\ Sins\ \(Nanatsu\ no\ taizai\)\ S01\ -\ S03\ \[1080p\]\[NF\]\[WEB-DL\]\[Dual\ Audio\]/The.Seven.Deadly.Sins.S01/The.Seven.Deadly.Sins.S01E01.mkv
+cd Tv
+P -S ./games
+P -S gog-stardew-valley
+P -S gog-unreal-tournament-goty
+P -S lib32-mesa-git
+cat games
+P -S gog-risk-of-rain
+v games
+P -S $(cat games)
+LANG=C pacman -Sl multilib | grep installed | cut -d ' ' -f 2
+P -Rs $(echo LANG=C pacman -Sl multilib | grep installed | cut -d ' ' -f 2)
+P -Rs wine-gecko
+P -Rs wine-mono
+P -Rs $(LANG=C pacman -Sl multilib | grep installed | cut -d ' ' -f 2)
+winetricks list | grep vcredist
+winetricks list | grep vc
+winetricks list | grep red
+winetricks list
+winetricks list-all | grep vc
+winetricks list-all | grep vcrun
+winetricks list-installed
+touch /home/tanmay/.local/share/wineprefixes/default/winetricks.log
+winetricks install vcrun2008 vcrun2010
+winetricks vcrun2008 vcrun2010
+P -S wget
+echo $WGETRC
+V /etc/wgetrc
+mkdir ~c/wget
+cp /etc/wgetrc ~c/wget
+winetricks vcrun2008
+winetricks vcrun2010
+ls ~M
+wine shell
+winetricks --help
+winetricks games list
+winetricks games list | grep assassins
+man chdir
+P -S wine
+echo $WINEPREFIX
+mkdir $WINEPREFIX
+ls ..
+wine */*setup*
+rm BioShock\ Infinite\ -\ The\ Complete\ Edition -r
+rm BioShock\ Infinite\ -\ The\ Complete\ Edition\ \[FitGirl\ Repack\] -r
+cd Deus\ Ex\ -\ Human\ Revolution\ \[FitGirl\ Repack\]
+cd CE
+wine dxhr.exe
+rm Deus\ Ex\ -\ Human\ Revolution\ \[FitGirl\ Repack\] -r
+cd TV
+du Anime
+rm Anime -r
+man linux
+man linux64
+man linuxaa64.efi.stub
+winetricks vcrun2012
+chmod +x bioshockinfinite
+chmod +x deusexhumanrevolution
+mpv An\ American\ Werewolf\ In\ London\ \(1981\)\ \[1080p\]\ \[YTS.AG\]/An.American.Werewolf.In.London.1981.1080p.BluRay.x264-\[YTS.AG\].mp4 Death\ Curse\ Of\ Tartu\ \(1966\)\ \[1080p\]\ \[BluRay\]\ \[YTS.MX\]/Death.Curse.Of.Tartu.1966.1080p.BluRay.x264.AAC-\[YTS.MX\].mp4 Ginger\ Snaps\ \(2000\)\ \[1080p\]/Ginger.Snaps.2000.1080p.BluRay.x264.YIFY.mp4 Let\ The\ Right\ One\ In\ \(2008\)\ \[BluRay\]\ \[1080p\]\ \[YTS.AM\]/Let.The.Right.One.In.2008.1080p.BluRay.x264-\[YTS.AM\].mp4 Werewolves\ Within\ \(2021\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/Werewolves.Within.2021.1080p.WEBRip.x264.AAC5.1-\[YTS.MX\].mp4 What\ We\ Do\ in\ the\ Shadows\ \(2014\)\ \[1080p\]/What.We.Do.in.the.Shadows.2014.1080p.BluRay.x264.YIFY.mp4
+rm mpv-shot0001.jpg
+mpv Armageddon\ \(1998\)\ \[1080p\]/Armageddon.1998.1080p.BrRip.x264.YIFY.mp4 Bad\ Boys\ \(1995\)\ \[1080p\]\ \[BluRay\]\ \[5.1\]\ \[YTS.MX\]/Bad.Boys.1995.1080p.BluRay.x264.AAC5.1-\[YTS.MX\].mp4 Bad\ Boys\ II\ \(2003\)\ \[1080p\]/Bad.Boys.II.2003.1080.BluRay.X264.YIFY.mp4 2001\ A\ Space\ Odyssey\ \(1968\)\ \[BluRay\]\ \[1080p\]\ \[YTS.AM\]/2001.A.Space.Odyssey.1968.1080p.BluRay.x264-\[YTS.AM\].mp4 Donnie\ Darko\ DIRECTORS\ CUT\ \(2001\)\ \[1080p\]/Donnie.Darko.DIRECTORS.CUT.2001.1080p.BrRip.x264.YIFY.mp4 Eyes\ Wide\ Shut\ \(1999\)\ \[1080p\]/Eyes.Wide.Shut.1999.1080p.BluRay.x264.YIFY.mp4 Let\ The\ Right\ One\ In\ \(2008\)\ \[BluRay\]\ \[1080p\]\ \[YTS.AM\]/Let.The.Right.One.In.2008.1080p.BluRay.x264-\[YTS.AM\].mp4 Robopocalypse\ \(0000\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/Robopocalypse.0000.1080p.WEBRip.x264.AAC5.1-\[YTS.MX\].mp4 X\ \(2022\)\ \[1080p\]\ \[BluRay\]\ \[5.1\]\ \[YTS.MX\]/X.2022.1080p.BluRay.x264.AAC5.1-\[YTS.MX\].mp4 What\ We\ Do\ in\ the\ Shadows\ \(2014\)\ \[1080p\]/What.We.Do.in.the.Shadows.2014.1080p.BluRay.x264.YIFY.mp4 The\ Wolf\ of\ Wall\ Street\ \(2013\)\ \[1080p\]/The.Wolf.of.Wall.Street.2013.1080p.BluRay.x264.YIFY.mp4 Transformers\ \(2007\)\ \[1080p\]/Transformers.2007.1080p.BrRip.x264.YIFY.mp4 Transformers\ 2\ -\ Revenge\ of\ The\ Fallen\ \(2009\)\[1080p\]/Transformers.Revenge.Of.The.Fallen.2009.IMAX.1080p.BrRip.x264.YIFY.mp4 Transformers\ 3\ -\ Dark\ of\ the\ Moon\ \(2011\)\ \[1080p\]/Transformer.3.2011.1080p.BrRip.x264.YIFY.mp4 Werewolves\ Within\ \(2021\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/Werewolves.Within.2021.1080p.WEBRip.x264.AAC5.1-\[YTS.MX\].mp4
+rmdir games
+mv games play
+mkdir games
+mv bioshockinfinite games
+mv deusexhumanrevolution games
+P -Qu
+vw games
+cd Dishonored\ -\ Complete\ Collection\ \[FitGirl\ Repack\]
+cd Games/Dishonored\ -\ Complete\ Collection\ \[FitGirl\ Repack\]
+mpv Armageddon\ \(1998\)\ \[1080p\]/Armageddon.1998.1080p.BrRip.x264.YIFY.mp4 Bad\ Boys\ \(1995\)\ \[1080p\]\ \[BluRay\]\ \[5.1\]\ \[YTS.MX\]/Bad.Boys.1995.1080p.BluRay.x264.AAC5.1-\[YTS.MX\].mp4 Bad\ Boys\ II\ \(2003\)\ \[1080p\]/Bad.Boys.II.2003.1080.BluRay.X264.YIFY.mp4 2001\ A\ Space\ Odyssey\ \(1968\)\ \[BluRay\]\ \[1080p\]\ \[YTS.AM\]/2001.A.Space.Odyssey.1968.1080p.BluRay.x264-\[YTS.AM\].mp4 Donnie\ Darko\ DIRECTORS\ CUT\ \(2001\)\ \[1080p\]/Donnie.Darko.DIRECTORS.CUT.2001.1080p.BrRip.x264.YIFY.mp4 Eyes\ Wide\ Shut\ \(1999\)\ \[1080p\]/Eyes.Wide.Shut.1999.1080p.BluRay.x264.YIFY.mp4 Let\ The\ Right\ One\ In\ \(2008\)\ \[BluRay\]\ \[1080p\]\ \[YTS.AM\]/Let.The.Right.One.In.2008.1080p.BluRay.x264-\[YTS.AM\].mp4 Robopocalypse\ \(0000\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/Robopocalypse.0000.1080p.WEBRip.x264.AAC5.1-\[YTS.MX\].mp4 X\ \(2022\)\ \[1080p\]\ \[BluRay\]\ \[5.1\]\ \[YTS.MX\]/X.2022.1080p.BluRay.x264.AAC5.1-\[YTS.MX\].mp4 What\ We\ Do\ in\ the\ Shadows\ \(2014\)\ \[1080p\]/What.We.Do.in.the.Shadows.2014.1080p.BluRay.x264.YIFY.mp4 The\ Wolf\ of\ Wall\ Street\ \(2013\)\ \[1080p\]/The.Wolf.of.Wall.Street.2013.1080p.BluRay.x264.YIFY.mp4 Werewolves\ Within\ \(2021\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/Werewolves.Within.2021.1080p.WEBRip.x264.AAC5.1-\[YTS.MX\].mp4
+rm Dishonored\ -\ Complete\ Collection\ \[FitGirl\ Repack\] -r
+chmod +x dishonored
+c bioshockinfinite
+where c
+v di
+v dishonored
+./dishonored
+v bioshockinfinite
+v deusexhumanrevolution
+column .zprofile
+column /etc/passwd -s ":"
+column /etc/passwd -t -s ":"
+nologin
+man nologin
+column /etc/passwd -t -s ":" -o "\|"
+column /etc/passwd -t -s ":" -o "|"
+column /etc/passwd -t -s ":" -o " | "
+w3m lukesmith.xyz
+where r
+man r
+r --help
+r -h
+r
+p -Ss gotop
+p -Ss gtop
+rm Halo\ -\ T* -r
+pkill brave
+pkill brave --kill
+time htop
+wiine setup.exe
+cd Games/Doki\ Doki\ Literature\ Club\ Plus\!\ \[FitGirl\ Repack\]/
+cd The\ Darkness\ 2\ \[FitGirl\ Repack\] 
+wine setup.exe &
+pkill wine -s KILL
+pkill wine --signal=KILL
+pkill wine --signal=TERM
+pkill xtool.exe --signal=TERM
+pkill xtool.exe --signal=KILL
+killall
+ping fitgirl-repacks.com
+ping fitgirl-repacks.site
+v .local/share/wineprefixes/default/drive_c/windows/system32/drivers/etc/hosts
+rm The\ Darkness\ \[FitGirl\ Repack\] 0r
+cd The\ Darkness
+P -Ss rpcs3
+P -S retroarch
+rm The\ Weather\ Man\ \(2005\)\ \[1080p\]\ \[BluRay\]\ \[5.1\]\ \[YTS.MX\] Bohemian\ Rhapsody\ \(2018\)\ \[BluRay\]\ \[1080p\]\ \[YTS.AM\] Death\ Curse\ Of\ Tartu\ \(1966\)\ \[1080p\]\ \[BluRay\]\ \[YTS.MX\] Diary\ Of\ The\ Dead\ \(2007\)\ \[1080p\]\ \[BluRay\]\ \[5.1\]\ \[YTS.MX\] Mad\ God\ \(2021\)\ \[1080p\]\ \[WEBRip\]\ \[YTS.MX\] Once\ Upon\ A\ Time\ ...\ In\ Hollywood\ \(2019\)\ \[WEBRip\]\ \[1080p\]\ \[YTS.LT\] The\ Hangover\ \(2009\)\ \[1080p\]\ \[BluRay\]\ \[5.1\]\ \[YTS.MX\] The\ Kashmir\ Files\ \(2022\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\] -r
+cd alacritty
+up 5
+cd boot
+cd OPUS\ -\ Echo\ of\ Starsong\ \[FitGirl\ Repack\]
+rm Doki\ Doki\ Literature\ Club\ Plus\! The\ Darkness The\ Darkness\ 2 -r
+cd Doki\ Doki\ Literature\ Club\ Plus\!\ \[FitGirl\ Repack\]
+rm Doki\ Doki\ Literature\ Club\ Plus\!\ \[FitGirl\ Repack\]
+rm Doki\ Doki\ Literature\ Club\ Plus\!\ \[FitGirl\ Repack\] -r
+cd The\ Darkness\ 2\ \[FitGirl\ Repack\]
+cd The\ Darkness\ \[FitGirl\ Repack\]
+swayhide qbittorrent
+rm The\ Darkness\ 2\ \[FitGirl\ Repack\] -r
+rm The\ Darkness\ \[FitGirl\ Repack\] -r
+cd Halo\ -\ TMCC\ \[FitGirl\ Repack\]
+mv ~M/*FitGirl* .
+mv ./*FitGirl* ..
+cd Fira\ \[FitGirl\ Repack\]
+du Anime -h
+du TV -h
+rm TV -r
+cd Games/Halo\ -\ TMCC\ \[FitGirl\ Repack\]
+up 
+rm Halo\ -\ TMCC\ \[FitGirl\ Repack\] -r
+rm Halo\ -\ The\ Master\ Chief\ Collection -r
+ls *Fit*
+ls *for*
+mpv All-Star\ Superman\ \(2011\)\ \[1080p\]/All.Star.Superman.2011.1080p.BRrip.x264.YIFY.mp4
+P -Ss jdownload
+P -Ss download manager
+;s
+rm \ https: -r
+v pirates.wiki
+p -S xdg-utils
+cd $(where play)
+v dokidokiliteratureclub
+chmod +x dokidokiliteratureclub
+chmod +x opusechoofstarsong
+v opusechoofstarsong
+vw play
+cp darkness darkness2
+v darkness2
+v darkness
+chmod +x darknes*
+chmod a BioShock\ Infinite\ -\ The\ Complete\ Edition
+wine hlmv.exe
+wine Launch\ Half-Life\ Source.bat
+pkill hl2.exe
+up 3
+cls && ls
+clear && ls
+ls ~/Desktop
+cat ~/Desktop/Doki\ Doki\ Literature\ Club\ Plus\!.desktop
+ls Doki\ Doki\ Literature\ Club\ Plus\!
+cat ~/Desktop/OPUS\ -\ Echo\ of\ Starsong.desktop
+ls OPUS\ -\ Echo\ of\ Starsong
+cat ~/Desktop/The\ Darkness.desktop
+cat ~/Desktop/The\ Darkness\ 2.desktop
+man w3m
+man tmux
+cd Halo\ The\ Master\ Chief\ Collection\ -\ \[DODI\ Repack\]
+rm Halo\ The\ Master\ Chief\ Collection\ -\ \[DODI\ Repack\] -r
+tmux
+cat ~/Desktop/Play\ Halo\ The\ Master\ Chief\ Collection.desktop
+v play
+v games/halothemasterchiefcollection
+ls Games/Hal
+ls Games/Halo\ The\ Master\ Chief\ Collection
+cd BioShock\ Infinite\ -\ The\ Complete\ Edition
+chmod a unins000.exe
+chmod all unins000.exe
+chmod +w Halo\ The\ Master\ Chief\ Collection
+chmod +a Halo\ The\ Master\ Chief\ Collection
+chmod a Halo\ The\ Master\ Chief\ Collection
+chmod a+w Halo\ The\ Master\ Chief\ Collection
+ls -l
+g
+chmod +x halothemasterchiefcollection
+v /dev/null
+wine dxwebsetup.exe
+cd Halo\ The\ Master\ Chief\ Collection
+cat $(where halothemasterchiefcollection _\
+)
+halothemasterchiefcollection
+wine --help
+man wine
+h winr
+h wine
+winetricks d3dx9
+P -Qe | less
+xdg-ninja
+cd .w3m
+v keymap
+w3m dodi-repacks.site
+w3m fitgirl-repacks.site
+read 
+echo $(read)
+read | echo
+a=read
+a=$(read)
+echo $a
+man read
+read --help
+read -h
+man echo
+w3m google
+w3m google.cmo
+read -p asdf
+read -p "asdf"
+read "asdf"
+echo $reswords
+read
+echo $READNULLCMD
+echo $REPLY
+read adf
+echo $adf
+man kitty
+P -Ss qt wayland
+P -S qt5-wayland qt6-wayland
+P -Ss bash insult
+P -S bash affirm
+P -Ss] bash affirm
+P -Ss bash affirm
+browse
+fc
+where fc
+fc-match monospaces
+fc-match monos
+fc-match
+fc-match -a
+P -S saucecodepro
+P -Ss saucecodepro
+P -Qe | grep ttf
+P -Rs ttf-iosevka-nerd ttf-nerd-fonts-symbols
+P -Ss source code pro
+P -Qe | grep font -i
+grep --help
+P -Ss sauce code pro
+P -Qe | grep font
+P -Q | grep font
+ls /usr/share/fonts/adobe-source-code-pro
+fc-list
+fc-list | grep sauce
+fc-list | grep serif
+fc-list | grep adobe
+ls /etc/fonts/conf.d
+fc-match mono -a
+fc-match adobe
+fc-match mono -a | grep source -i
+fc-cache
+fc-list | grep roboto -i
+fc-list | grep adobe -i
+fc-list | grep adobe -i | grep mono -
+fc-list | grep adobe -i | grep mono -i
+V /etc/fonts/fonts.conf
+sudo 
+sudo sudo 
+mkdir /usr/share/fonts/TTF
+sudo mkdir /usr/share/fonts/TTF
+sudo mv Sauce\ Code\ Pro\ Nerd\ Font\ Complete\ Mono.ttf /usr/share/fonts/TTF
+v /usr/share/fonts/TTF/Sauce\ Code\ Pro\ Nerd\ Font\ Complete\ Mono.ttf
+display /usr/share/fonts/TTF/Sauce\ Code\ Pro\ Nerd\ Font\ Complete\ Mono.ttf
+fc-match mono | grep sauce -i
+fc-match monospace | grep sauce -i
+fc-match monospace -a
+fc-match monospace -a | grep sauce -i
+g https://github.com/yangchuoxian/SauceCodeProNerdFont
+cd SauceCodeProNerdFont
+mv SauceCodeProNerdFont /usr/share/fonts/
+sudo mv SauceCodeProNerdFont /usr/share/fonts/
+fc-list | grep sauce -i
+fc-list | grep sauce -i | grep mono -i
+P -S lxappearance qt5ct
+P -Ss arc dark
+p -Ss gtk dark
+P -Ss gtk dark
+P -Rs qt5-base
+retroarch
+cd Deus\ Ex\ -\ Human\ Revolution
+cd Half-Life\ -\ Source\ Quadrilogy\ \[FitGirl\ Repack\]
+rm Half-Life\ -\ Source\ Quadrilogy\ \[FitGirl\ Repack\] -r
+rm Injustice\ 2 -r
+wine Verify\ BIN\ files\ before\ installation.bat
+where ld
+man ld
+xdg-open magnet:?xt=urn:btih:6A3309A8BD3FF16D4A04880A01EBA01E72355FB3&dn=Injustice+2%3A+Legendary+Edition+%28v1.1.21.0%2FDenuvoless+%2B+All+DLCs%2C+MULTi9%29+%5BFitGirl+Repack%2C+Selective+Download+-+from+28.4+GB%5D&tr=udp%3A%2F%2F46.148.18.250%3A2710&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2730%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=http%3A%2F%2Fretracker.local%2Fannounce&tr=http%3A%2F%2Fretracker.ip.ncnet.ru%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce
+cd Injustice\ 2
+cd Injustice\ 2\ \[FitGirl\ Repack\]
+qbittorrent
+winetricks list-all | grep dotnet
+cd Injustice\ 2\ Legendary\ Edition\ -\ \[DODI\ Repack\]
+wine Setup.exe
+winetricks list-all | grep directx
+winetricks list-all | grep dx
+winetricks list-all | grep dx -i | grep 9 |\
+\
+echo
+winetricks list-all | grep dx -i | grep 9
+chmod a+w Injustice\ 2\ Legendary\ Edition
+winetricks vcredist
+winetricks vcrun
+winetricks list-all | grep vcrun -i
+cd Injustice\ 2\ Legendary\ Edition
+v ContentValidationData.txt
+cd _CRACKS
+cd _CODEX\ Crack
+mv Binaries ../..
+cd Binaries
+cd Retail
+mv * ../../../../Binaries/Retail
+cd _FLT\ Crack
+v flt.ini
+ls ../../Binaries/Retail
+mv * ../../Binaries/Retail
+cd Binaries/Retail
+wine Injustice2.exe
+cd ~/Desktop
+./Play\ Injustice\ 2\ Legendary\ Edition.desktop
+cat Play\ Injustice\ 2\ Legendary\ Edition.desktop
+rm Injustice\ 2* -r
+cd cron
+v newsup
+echo $SUDO_ASKPASS
+v ../dmenupass
+ls Games
+ls Desktop
+v Desktop
+cat $(where halflife )
+where games
+cd games
+cd Half-Life\ -\ Source\ Quadrilogy
+wine hl2.exe
+wine Launch\ Half-Life\ 2.bat
+rm Half-Life\ -\ Source\ Quadrilogy -r
+sxiv thumb.11a15c986b963d76c622157203e871ea65383f4edddf6bf9251a55cd06f5e5e4
+sxiv thumb.5160a224f6eff764ee3173f7f548b6c7900ea931ecc3e5ed966e7ba62b68c575
+sxiv thumb.9b9c9d7a0197f38745441d0a54ae2924b7dca6076974d5af567cb27015f2aa9e.jpg
+P -Qe
+cd OPUS\ -\ Echo\ of\ Starsong
+rmdir OPUS\ -\ Echo\ of\ Starsong
+P -S lib32-alsa-plugins lib32-libpulse lib32-openal
+wine winecfg
+mpv Pulp\ Fiction\ \(1994\)\ \[1080p\]/Pulp.Fiction.1994.1080p.BrRip.x264.YIFY.mp4
+P -Ss screenshot wayland
+P -Ss screenrecord wayland
+P -Ss screen wayland
+P -Ss record wayland
+P -S grim
+P -Ss wayfire
+grim --help
+grom
+grim -h
+grim -t png -o asdf
+grim -t png -o asdf.png
+grim -t png -l 0 -o asdf.png
+grim -t png -l 0 -o "asdf.png"
+grim -t png -l 0
+ls Pictures
+sxiv 20220722_11h41m58s_grim.png
+sxiv 20220722_11h43m42s_grim.png
+grim
+sxiv 20220722_11h47m23s_grim.png
+man grep
+man dmenu
+./sreenshot
+mv sreenshot screenshot
+mkdir screenshot
+ls screenshot
+sxiv 20220722_12h03m13s_grim.png
+man grim
+v screenshot
+cd Pictures
+screenshot
+man cifscreds
+cd screenshot
+grim -o asdf
+grim -o "asdf"
+grim "asdf"
+echo $GRIM_DEFAULT_DIR
+echo $XDG_PICTURES_DIR
+vw screenshot
+cat $(where screenshot)
+P -S pipewire xdg-desktop-portal xdg-desktop-portal wlr 
+P -S pipewire xdg-desktop-portal xdg-desktop-portal-wlr 
+v .zprofile
+cat ~c/dconf/dbusforcron
+P -S kooha
+cd Videos
+mpv Kooha-07-22-2022-13-30-08.webm
+mpv Kooha-07-22-2022-13-30-16.webm
+mpv Kooha-07-22-2022-13-31-28.webm
+mpv Kooha-07-22-2022-13-32-01.webm
+mpv Kooha-07-22-2022-13-33-04.mkv
+rm *]
+rm *
+kooha
+P -Ss gdk
+xrandr
+swaymsg -t get_outputs
+pango-view
+fc-match mono
+fc-match monospace
+fc-match serif
+pango-list | grep sauce -i
+h qt4ct
+P -Ss slurp
+P -S slurp
+fc-match sans
+P -Ss garamound
+P -Ss garamond
+P -S ttf-ebgaramond
+cd /etc/fonts
+fc-list | grep garamond
+fc-cache -r
+fc-list | grep garam
+fc-list | grep gar
+fc-list | grep mond
+fc-list | grep garamond -i
+V local.conf
+echo $(( (83+84+85+84+97)/5 ))
+z forms/CBSE\ -\ Senior\ School\ Certificate\ Examination\ \(Class\ XII\)\ Results\ 2022.pdf
+mpv Doctor\ Strange\ In\ The\ Multiverse\ Of\ Madness\ \(2022\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/Doctor.Strange.In.The.Multiverse.Of.Madness.2022.1080p.WEBRip.x264.AAC5.1-\[YTS.MX\].mp4
+w3m
+w3m yts.mx
+v 50-systemd-user.conf
+v vars
+cd /usr/share/
+find sway
+v /etc/sway/config
+v variables
+cd config.d
+rm variables
+v autostart
+v keymaps
+P -Ss cuphead
+P -S gog-cuphead
+man 5 sway-output
+mkdir swaylock
+cd swaylock
+mv swaylock sway-lock
+cd sway-lock
+pkill swaylock
+mv sway-lock swaylock
+man 5 sway-bar
+v /usr/share/doc/swaylock/README.md
+v /usr/share/man/man1/swaylock.1.gz
+cd sway
+swaybg --help
+swaybg -i wallpapers/current -m fit
+pkill dokidokiliterat 
+pkill wine
+pkill Doki\ Doki\ Liter
+cd lost+found
+ls /usr/share/sway/scripts/grimshot
+v /usr/share/sway/scripts/grimshot
+cd Cuphead\ \[FitGirl\ Repack\]
+games
+cat $(where wallpapercycle)
+sudo cp wallpapers/current /usr/share/sddm/themes/dark-sddm-theme/background.png
+P -Ss ambient
+P -S anoise-gui
+anoise --help
+P -Rs anoise-gui
+P -Ss background
+P -Ss background music
+P -Ss background noise
+P -Ss background spund
+P -Ss background sound
+cd Music
+spot 'https://open.spotify.com/album/3sQqya1Z1oFg1ueZ18QB7k?si=-6wMA37KQmqp2QlihRZMxw'
+aplay --help
+aplay --help | grep loop -i
+man play
+pkill ambience
+pkill aplay
+aplay ~/Music/Avril\ Lavigne\ -\ Anything\ but\ Ordinary.mp3
+man aplay
+man mpv
+vw ambience
+P -Ss swaylock blur
+cd Phoenix\ Wright\ -\ Ace\ Attorney\ Trilogy\ \[FitGirl\ Repack\]
+man sway 5
+mpv -help
+mpc --help
+mpc volume 100
+rm Phoenix\ Wright\ -\ Ace\ Attorney\ Trilogy\ \[FitGirl\ Repack\] -r
+cd Paradise\ Killer\ \[FitGirl\ Repack\]
+rm Paradise\ Killer\ \[FitGirl\ Repack\] -r
+c 
+cd newsboat
+v urls
+ambience
+man sway-ipc
+man sway
+man 5 sway-input
+z jee\ admit\ card\ 2.pdf
+p -S bluez
+p -S bluez-utils bluez 
+btusb
+lsmod
+modprobe btusb
+sudo modprobe btusb
+lsmod | grep bt
+blueman
+sudo blueman-applet
+p -Rs blueman
+p -S bluedevil
+bluedevil-wizard
+p -S steam
+startc
+upower 
+acpt
+apt
+apt-get
+bluedevil-sendfile
+bluedevil-sendfile --help
+p -Ss obex
+p -S bluez-obex
+p -S bluez-utils
+obexctl
+obexctl --help
+obexctl --monitor
+obex-client-tool
+obex-server-tool
+P -Ss obex
+P -S obex-data-server
+sudo systemctl enable --now obex
+obex-check-device
+bluedevil-sendfile -f Music 
+P -Rs obex-data-server
+p -S bluetoothctl
+p -Ss bluetoothctl
+man bluetoothd
+man bluetooth-meshd
+bluetoothctl
+bluedevil-sendfile Music
+P -Rs bluedevil
+p -S blueman
+blueman-applet
+blueman-sendto
+bluemoon
+p -S blueberry
+bluetooth-sendto
+p -S gnome-bluetooth-3.0
+bluetooth-sendto Music
+bluetooth-sendto 
+man 5 sway
+p -S plasma-meta
+p -S plasma-wayland-session
+head /etc/pacman.d/mirrorlist
+sudo reflector --protocol https --save /etc/pacman.d/mirrorlist
+P -Rs gnome-bluetooth-3.0 blueberry bluedevil
+P -Rs gnome-bluetooth-3.0 blueberry
+p -S kde-applications-meta
+pkill kdeinit5
+pkill klauncher
+killall kde
+killall kwin_wayland
+killall -u tanmay
+head a
+head a.out
+head waylandkdecommand
+dbus-run-session startplasma-wayland
+v .xprofile
+v .config/x11/xinitrc
+p -Rs kde-applications-meta plasma-meta plasma-wayland-session
+p -S kdeconnect
+man 5 swaylock
+cd Portal\ Collection\ \[FitGirl\ Repack\]
+cd The\ Legend\ of\ Zelda\ -\ Breath\ of\ the\ Wild\ \[FitGirl\ Repack\]
+rm Portal\ Collection\ \[FitGirl\ Repack\] The\ Legend\ of\ Zelda\ -\ Breath\ of\ the\ Wild\ \[FitGirl\ Repack\] -r
+man unzip
+man tar
+tar -cfv Music.zip Music
+tar -cvf Music.zip Music
+file Music.zip
+rm Music.zip
+tar -cvzf Music
+tar -cvzf Music.tar.gz Music
+rm Music.tar.gz
+p -S syncthing
+v output.pdf
+rm output.pdf
+libreoffice examinationsnsnsns.ods
+v examinationsnsnsns.csv
+z output.pdf
+f
+z MAHCET_PCM\ 2022.pdf
+while IFS= read -r i; do\
+  if [[ $(echo $i | cut -c 1) -ne "#" ]]; then\
+    echo $i\
+  fi\
+done < /home/tanmay/.config/sway/config.d/keymaps\
+\
+
+while IFS= read -r i; do\
+  if [[ $(echo $i | cut -c 1) -ne "  #" ]]; then\
+    echo $i\
+  fi\
+done < /home/tanmay/.config/sway/config.d/keymaps\
+\
+
+while IFS= read -r i; do\
+  if [[ $(echo $i | cut -c 1) -ne " " ]]; then\
+    echo $i\
+  fi\
+done < /home/tanmay/.config/sway/config.d/keymaps\
+\
+
+while IFS= read -r i; do\
+  if [[ $(echo $i | cut -c 1) -ne "w" ]]; then\
+    echo $i\
+  fi\
+done < /home/tanmay/.config/sway/config.d/keymaps\
+\
+
+while IFS= read -r i; do\
+  if [ $(echo $i | cut -c 1) -ne "#" ]; then\
+    echo $i\
+  fi\
+done < /home/tanmay/.config/sway/config.d/keymaps\
+\
+
+while IFS= read -r i; do\
+  if [[ $(echo $i | cut -c 1) -ne "" ]]; then\
+    echo $i\
+  fi\
+done < /home/tanmay/.config/sway/config.d/keymaps\
+\
+
+while IFS= read -r i; do\
+  if [[ $(echo $i | cut -c 1) -eq "" ]]; then\
+    echo $i\
+  fi\
+done < /home/tanmay/.config/sway/config.d/keymaps\
+\
+
+echo "    bindsym mod+1 workspace number 1" | cut -d " " -f 1
+echo "    bindsym mod+1 workspace number 1" | cut -d " " -f 2
+echo "    bindsym mod+1 workspace number 1" | cut -d " " -f 3
+echo "    bindsym mod+1 workspace number 1" | cut -d " " -f 4
+while IFS= read -r i; do\
+  if [[ $(echo $i | cut -c 1 ) -ne "#" ]]; then\
+    echo $i\
+  fi\
+done < /home/tanmay/.config/sway/config.d/keymaps\
+\
+
+while IFS= read -r i; do\
+  if [[ $(echo $i | cut -c 7 ) -ne "#" ]]; then\
+    echo $i\
+  fi\
+done < /home/tanmay/.config/sway/config.d/keymaps\
+\
+
+while IFS= read -r i; do\
+  if [[ $(echo $i | cut -c 5 ) -ne "#" ]]; then\
+    echo $i\
+  fi\
+done < /home/tanmay/.config/sway/config.d/keymaps\
+\
+
+while IFS= read -r i; do\
+  if [[ $(echo $i | cut -c 5 ) -ne "\#" ]]; then\
+    echo $i\
+  fi\
+done < /home/tanmay/.config/sway/config.d/keymaps\
+\
+
+while IFS= read -r i; do\
+  if [[ $(echo $i | cut -c 5 ) -eq "#" ]]; then\
+    echo $i\
+  fi\
+done < /home/tanmay/.config/sway/config.d/keymaps\
+\
+
+while IFS= read -r i; do\
+  if [[ $(echo $i | cut -c 2 ) -ne "#" ]]; then\
+    echo $i\
+  fi\
+done < /home/tanmay/.config/sway/config.d/keymaps\
+\
+
+while IFS= read -r i; do\
+  if [[ $(echo $i | cut -c 3 ) -ne "#" ]]; then\
+    echo $i\
+  fi\
+done < /home/tanmay/.config/sway/config.d/keymaps\
+\
+
+while IFS= read -r i; do\
+  if [[ $(echo $i | cut -f " " 5 ) -ne "#" ]]; then\
+    echo $i\
+  fi\
+done < /home/tanmay/.config/sway/config.d/keymaps\
+\
+
+while IFS= read -r i; do\
+  if [[ $(echo $i | cut -d " " -f 4 ) -ne "#" ]]; then\
+    echo $i\
+  fi\
+done < /home/tanmay/.config/sway/config.d/keymaps\
+\
+
+echo "    bindsym mod+1 workspace number 1" | cut -d " " -f 5
+echo "    # bindsym mod+1 workspace number 1" | cut -d " " -f 5
+while IFS= read -r i; do\
+  if [[ $(echo $i | cut -d " " -f 5 ) -ne "#" ]]; then\
+    echo $i\
+  fi\
+done < /home/tanmay/.config/sway/config.d/keymaps\
+\
+
+while IFS= read -r i; do\
+  if [[ $(echo $i | cut -d " " -f 5 ) -ne "#" ]]; then\
+    echo $i | cut -d " " -f 5\
+  fi\
+done < /home/tanmay/.config/sway/config.d/keymaps\
+\
+
+while IFS= read -r i; do\
+  if [[ $(echo $i | cut -d " " -f 5 ) -eq "#" ]]; then\
+    echo $i | cut -d " " -f 5\
+  fi\
+done < /home/tanmay/.config/sway/config.d/keymaps\
+\
+
+while IFS= read -r i; do\
+  if [[ $(echo $i | cut -d " " -f 5 ) -eq "# " ]]; then\
+    echo $i | cut -d " " -f 5\
+  fi\
+done < /home/tanmay/.config/sway/config.d/keymaps\
+\
+
+while IFS= read -r i; do\
+  if [[ $(echo $i | cut -d " " -f 5 ) -eq '\#' ]]; then\
+    echo $i | cut -d " " -f 5\
+  fi\
+done < /home/tanmay/.config/sway/config.d/keymaps\
+\
+
+while IFS= read -r i; do\
+  if [[ echo $i | cut -d " " -f 5 -eq '#' ]]; then\
+    echo $i | cut -d " " -f 5\
+  fi\
+done < /home/tanmay/.config/sway/config.d/keymaps
+while IFS= read -r i; do\
+  if [[ $(echo $i | cut -d " " -f 5 ) -eq '#' ]]; then\
+    echo $i | cut -d " " -f 5\
+  fi\
+done < /home/tanmay/.config/sway/config.d/keymaps\
+\
+
+while IFS= read -r i; do\
+  if [[ $(echo $i | cut -d " " -f 5 ) = '#' ]]; then\
+    echo $i | cut -d " " -f 5\
+  fi\
+done < /home/tanmay/.config/sway/config.d/keymaps\
+
+while IFS= read -r i; do\
+  if [[ $(echo $i | cut -d " " -f 5 ) <> '#' ]]; then\
+    echo $i | cut -d " " -f 5\
+  fi\
+done < /home/tanmay/.config/sway/config.d/keymaps\
+
+while IFS= read -r i; do\
+  if [[ $(echo $i | cut -d " " -f 5 ) != '#' ]]; then\
+    echo $i | cut -d " " -f 5\
+  fi\
+done < /home/tanmay/.config/sway/config.d/keymaps\
+
+while IFS= read -r i; do\
+  if [[ $(echo $i | cut -d " " -f 5 ) != '#' ]]; then\
+    echo $i\
+  fi\
+done < /home/tanmay/.config/sway/config.d/keymaps\
+
+ip monitor show
+ip monitor show dev wlo1
+ip monitor show wlo1
+w3m 192.168.1.1
+ping http://192.168.1.1/
+ping 192.168.1.1/
+ping 192.168.1.1
+v a
+sxiv a
+rm a
+sxiv a.out
+z a.out
+v asd
+sxiv asdf
+rm asd
+v asdfsdf
+sxiv asdfsdf
+rm asdfsdf
+v games.txt
+rm games.txt
+v ldld
+sxiv ldld
+rm ldld
+v v
+mpv v
+file v
+rm v
+file a.out
+objdump -x a.out
+objdump -d a.out
+rm 20220722_12h18m22s_grim.png
+v a.out
+tar -x a.out
+tar -xf a.out
+rm a.out
+vw wallpapers
+for i in [[ 1 ... 100 ]]; do\
+wallpapercycle >> wallpaperlist\
+done
+for i in [ 1 ... 100 ]; do\
+wallpapercycle >> wallpaperlist\
+done
+for i in { 1 ... 100 }; do\
+wallpapercycle >> wallpaperlist\
+done
+for i in [ 1...100 ]; do\
+wallpapercycle >> wallpaperlist\
+done
+v wallpaper
+for i in [[ 1...100 ]]; do\
+wallpapercycle >> wallpaperlist\
+done
+for i in { 1...100 }; do\
+wallpapercycle >> wallpaperlist\
+done
+for i in {1...100}; do\
+wallpapercycle >> wallpaperlist\
+done
+for i in ( 1...100 ); do\
+wallpapercycle >> wallpaperlist\
+done
+for i in [1..100]; do\
+wallpapercycle >> wallpaperlist\
+done
+for i in [1...100]; do\
+wallpapercycle >> wallpaperlist\
+done
+v wallpaperlist
+for i in {1..100}; do\
+wallpapercycle >> wallpaperlist\
+done
+rm wallpaperlist
+v ~c/newsboat/urls
+v ~c/autostart/anoise.desktop
+pl
+p -Ss noto
+p -S noto-fonts-extra
+zsh -i
+v $HISTFILE
+cal -y
+exec swayidle -w \\
+  timeout 300 'sysact lock' \\
+  timeout 600 'swaymsg "output * dpms off"' \\
+  resume 'swaymsg "output * dpms on"' \\
+  before-sleep 'sysact lock'\
+
+exec swayidle -w \\
+  timeout 10 'sysact lock' \\
+  timeout 15 'swaymsg "output * dpms off"' \\
+  resume 'swaymsg "output * dpms on"' \\
+  before-sleep 'sysact lock'\
+
+P -S swaylock-effects
+P -S swaylock-blur-bin
+swaylock-blur --blur-sigma=1
+swaylock-blur --blur-sigma=100
+swaylock-blur --blur-sigma=10
+swaylock-blur --blur-sigma=20
+swaylock
+vw
+P -Rs swaylock-blur-bin
+v ~c/swaylock/config
+p -S macho
+man cat
+macho cat
+p -S ponysay
+cat $(where wallpapercycle) | ponysay
+cal -y | less
+cal -y 2012
+cal -y 2013
+cal -y 3030
+cal -y 666
+cal -y 69420 | ponysay
+cal -y 69420
+cal -y 69420| less
+man cal
+cal -color=auto
+cal --color=auto
+neovide
+neovide source .config/sway/session
+neovide a -c source .config/sway/session
+EDITOR=neovide visudo
+sudo EDITOR="neovide --" visudo
+EDITOR=nvim
+head config
+v -c source $ZDOTDIR/session
+export EDITOR=neovide
+v -c source ~c/nvim/vrc/session
+EDITOR=nvim visudo
+sudo EDITOR=neovide visudo
+sudo EDITOR="neovide --nofork" visudo
+neovide --help
+swaymsg refrsh
+swaymsg refresh
+swaymsg re
+swaymsg
+mpv Videos/Kooha-07-31-2022-13-44-07.mkv
+P -S meowfetch
+P -Ss meowfetch
+P -Ss meow
+P -Ss transg
+P -S kdenlive
+echo $wallpapers | wc -w
+ls $prefix | wc -l
+prefix=/home/tanmay/wallpapers/cycle\
+wallpapers=$(ls $prefix | tr "\n" " ")\
+
+echo $((1+$RANDOM%$(echo $wallpapers | wc -w)))
+man swaylock 
+cd Games/Totally\ Accurate\ Battle\ Simulator\ \[FitGirl\ Repack\]/
+play
+kill wine
+killall wine
+killall \[TotallyAccurate\]
+pkill wineserver
+pkill TotallyAccurate\ \<defunct\> 
+pkill winedevice.exe
+man test
+P -Rs blueman
+cat anxiety\ minecraft
+idle
+idle3
+test -f wallpapers/cycle/index
+test -f wallpapers/cycle/ind
+test -e wallpapers/cycle/ind
+test -e wallpapers/cycle/index
+echo $((+1))
+echo 2 > wallpapers/cycle/index
+echo 1 > wallpapers/cycle/index
+bc -ilq
+man bc
+swaymsg -t get_tree
+P -Ss sway float
+curl https://github.com/Synthetica9/sway-floating/raw/master/floating >> floating
+v floating
+curl https://raw.githubusercontent.com/Synthetica9/sway-floating/master/floating >> floating
+chmod +x floating
+du Totally\ Accurate\ Battle\ Simulator -h
+du Dishonored\ -\ Complete\ Collection -h
+cd Totally\ Accurate\ Battle\ Simulator
+wine unins000.exe
+P -Rs wine
+P -Rs wine-mono wine-gecko wine
+m
+spot 'https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX?si=7v_jNcXQRmSk_-Tx6l2y-Q' 'https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J?si=vZQDvdGBRZ2u5XlFlXz0Xw' 'https://open.spotify.com/album/0Oq3mWfexhsjUh0aNNBB5u?si=HXGblPQxTJak-YeJY6MLuw' 'https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP?si=-m5epv_CTZS9F-WKZjuNjQ' 'https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY?si=ofcRcIEnQJWwgvpfMnSrEQ' 'https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR?si=GTq5U3yOSd2HqOsigInx7Q' 
+spot 'https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp?si=ak8lmSntTHOn9Vhmb93ihA' 'https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh?si=ea_34r_yTbK7W89wkDkTkQ'
+nmcli device wifi rescan && nmtui
+P -S zip
+spot 'https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B?si=m5keLz2ZTSKvGqD0NXnjww' 'https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu?si=eRhHaJqgRBK68bQlvcQaVQ' 'https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj?si=enu6fToKSQa2d19eO3kMtg' 'https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC?si=9z3ZZuHzSdCxVblzVumWMQ' 'https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq?si=D5642kfmQAmsb894n6r3_w' 'https://open.spotify.com/album/62qlgaMyt18VgBtRCM29hd?si=wMjtZIbuRKaNNeL3ZKjh5A' 'https://open.spotify.com/album/5t7Bn5XfE7yj2rqydVq0Ue?si=TKzWOzAMTj-Q_1qGEP0qqw' 
+P -Rs supertuxkart
+P -Rs 0ad
+P -Rs 0ad supertuxkart xonotic
+P -Rs supertuxkart xonotic
+P -Rs whatsapp-for-linux
+cd forms
+z BITSAT\ 2022.pdf
+z BITSAT\ 2022\ Application\ Form\ __\ Bits,\ Pilani.pdf '\
+'
+libreoffice bitsat\ ses\ 2.pdf
+floating
+floating neovide
+P -Rs tlauncher
+QT_QPA_PLATFORM=xcb ktouch
+v  ~c
+spot 'https://open.spotify.com/album/2FwzHgJ4XaPhC19Y0uL6SK?si=rdL2husRRDe4LIyrTIq9Bw'
+P -Ss sddm sugar
+cd etc
+pkill kdeconnectd
+spot 'https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG?si=YFqFxyDxQOavMVlcN_mOXg' 'https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT?si=KyItLnvQSHuaS0ur2ZTpDA' 'https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU?si=l5Ybzy-SSqiD-TpATLCQoQ' 'https://open.spotify.com/album/6LMC7ZuVNDUQ0tHpGKdd9K?si=-Gy7R8flSROFrPg8Swv7kg''https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g?si=q5HJtqfBQQuTnpOlRmb-5g' 'https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp?si=ywNUuTEmRRWjtu5EwwHpeQ' 
+pkill syncthing
+ponysay-tool --help
+ponysay-tool --kms 
+ponysay-tool +h
+ponysay-tool asdf
+ponysay asf
+P -Rs xorg
+P -Rs xorg-xinit
+P -Rs xorg-xev
+P -Rs xorg-xclipboard
+P -Rs xorg-font-util
+P -Rs xorg-xbacklight
+P -Rs xorg-xwininfo
+P -Rs xorg-xdpyinfo
+P -Rs xorg-fonts-encodings 
+P -Rs xorg-server-xephyr
+P -Rs xorg-bdftopcf
+P -Rs xorg-xauth
+P -Rs sddm-sugar-candy-git
+P -Rs xorg-server
+P -Rs xorg-font-utils
+P -Rs ttf-ebgaramond
+P -Rs steam
+where V
+v /etc/pacman.conf
+P -Q
+P -Q | grep lib32
+P -Q | grep lib32%
+for i in $(P -Q | grep lib32); do\
+	echo ${i%-}\
+done
+for i in $(P -Q | grep lib32); do\
+	echo ${lib32-i}\
+done
+for i in $(P -Q | grep lib32); do\
+	echo ${lib32-}\
+done
+for i in $(P -Q | grep lib32); do\
+	echo ${lib32%i}\
+done
+for i in $(P -Q | grep lib32); do\
+	echo ${lib32-%i}\
+done
+for i in $(P -Q | grep lib32); do\
+	echo $i\
+done
+for i in $(P -Q | grep lib32); do\
+	echo $i >> rems.txt\
+done
+v rems.txt
+P -Rs lib32-systemd
+P -Rs lib32-dbus
+P -Rs lib32-libpulse
+P -Rs lib32-alsa-lib
+P -Rs lib32-alsa-plugins
+P -S alsa-plugins
+while IFS= read -r i; do\
+	P -Rs $i\
+done < /home/tanmay/rems.txt
+P -Rs lib32-openal
+P -Rs lib32-glibc
+P -Rs lib32-libogg
+P -Rs lib32-attr
+P -Rs lib32-gcc-libs
+P -Rs lib32-libstdc++5
+rm rems.txt
+pkill xcape
+xcape
+P -Rs xwallpaper xcape
+P -Rs xorg-setxkbmap
+P -Rs xorg-server-common
+P -Rs xorg-fonts-encodings
+P -Rs xorg-xprop
+P -Rs xorg-xrandr
+P -Rs xorg-xset
+P -Rs xorg-util-macros
+P -Rs xorg-xkbcomp
+P -Rs retroarch
+P -Rs powerline ponysay kdenlive
+du .tlauncher
+du .tlauncher -h
+du .local/share/minecraft
+du .local/share/minecraft -h
+P -Rs powerline
+P -Qt | grep
+P -Rs bluez-utils
+P -Rs lgogdownloader
+vw mw
+EDITOR=nvim neomutt
+swaymsg -h
+P -S cairo-dock cairo-dock-plug-ins
+killall cairo
+killall cairo-dock
+cairo-dock
+P -S compiz
+w
+git pull
+rm .git -r
+git commit -m
+git commit -m "\
+"
+git remote add origin https://github.com/justACatBuryMe/walpapers.git\
+git branch -M main\
+git push -u origin main
+gh
+gh auth login
+gh repo deploy-key list
+mkdir dotfiles
+git init --bare
+cd dotfiles
+rm .git dotfiles -rf
+git add .config
+git branch list
+git add .zprofile
+git commit -m "initial commit"
+git add .config/ -A
+cd .git
+git add .config/ .local/ .zprofile
+git reset
+git status
+git remote add origin https://github.com/justACatBuryMe/dotfiles.git\
+git branch -M main\
+git push -u origin main
+git push -u origin main
+git commit -m "initial commit 2"
+git add .local/bin/wallpapercycle
+git commit -m "fixed wallpaper cycle"
+git commit -m "added wallpapers and restructuring"
+echo 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 > githubpassword
+vw wallpapercycle
+sxiv wallpapers/cycle/15876.jpg
+P -Ss synaptic
+P -S libsynaptics touchpad-toggle
+p -S libinput
+P -S touchpad-toggle
+p -
+p - xinput
+p -S xinput
+p -S xorg-xinput
+touchpad-edge-detector
+touchpad-toggle.sh
+P -S xf86-input-synaptics
+P -S swayfire
+p -S swayfire
+./scope 
+./scope ~/Pictures/screenshot/20220731_13h43m02s_grim.png
+mediainfo
+vw mediainfo
+echo $WAYLAND_DISPLAY
+ueberzug
+P -Ss sixel
+P -S lf-sixel
+P -S lf-sixel-git
+man lf
+P -S ffmpegthumbnailer ImageMagick poppler epub-thumbnailer wkhtmltopdf unzip 7z unrar catdoc docx2txt odt2txt gnumeric exiftool iso-info mcomix
+P -S ffmpegthumbnailer imagemagick poppler wkhtmltopdf unzip unrar catdoc docx2txt odt2txt gnumeric mcomix
+P -Rs wkhtmltopdf catdoc docx2txt odt2txt gnumeric mcomix
+sxiv wallpapers/cycle/10871.jpg
+sxiv wallpapers/cycle/1014.png
+sxiv wallpapers/cycle/109167.jpg
+sxiv wallpapers/cycle/11267.jpg
+sxiv wallpapers/current
+echo "2+2" | bc
+P -Rs sddm-sugar-candy-git sddm
+P -Rs syncthing
+vcf
+where vcf
+nvim -c source ~/.config/nvim/vrc/session
+vw updates
+cal --color=always
+cal --color=always -12
+cal --color=always -y
+cal 2022
+wc -l ~/.cache/paru/updates
+cat -l ~/.cache/paru/updates
+cat ~/.cache/paru/updates
+v cat ~/.cache/paru/updates
+sed updates
+sed -f updates
+sed -f updates -> -<
+sed -f updates "->" "-<"
+sed -f updates -E "->" "-<"
+sed --sandbox -f updates -E "->" "-<"
+P -S activate-linux
+activate-linux
+activate-linux -c 1.0-0-1.0-1.0
+activate-linux -c 1.0-0-1.0-1.0 -w
+activate-linux -c 1.0-0-1.0-1.0 -v
+activate-linux -v -c 1.0-0-1.0-1.0
+function asdf {\
+	echo $@\
+	for i in $@; do\
+		echo $i\
+	done\
+}
+asdf a s
+spot 'https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2?si=tkj21N8lQFiHLrRFCh2sjw' 'https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp?si=ZrS_anTLRSOsDFOkfbOI_w'
+ncmpcpp
+man visudo
+config asdf
+config asf
+config asf asdf 
+config $EDITOR
+man neovim
+man nvim
+nvim $(where config)
+nvim -c source $ZDOTDIR/session
+vw colors
+nvim $(where colors)
+neovim $(where colors)
+neovide $(where colors)
+$(where colors)
+colors
+clear && neofetch
+clear && htop
+waybar
+V /etc/fonts/local.conf
+v /etc/fonts/local.conf
+fc-list | grep mono -i
+g https://github.com/powerline/fonts
+v install.
+v install.sh
+./install.sh
+v local.conf
+cd fo
+cd fonts
+v uninstall.sh
+chmod +x uninstall.sh
+./uninstall.sh
+rm fonts -rf
+v .config/waybar/config
+sl
+cd .cache/paru
+git commit -
+git commit -m "changed waybar"
+git commit -m "added pamu"
+ls wallpapers/cycle
+echo $PATH
+echo $((1.0*3))
+jobtime 24 223 748440 631400
+jobtime 350000 27170 12000 9366
+jobtime 4500 698 3366 1251
+jobtime 80000 3730 2430 1400
+man tr
+bindings\\
+
+sw
+swa
+ktouch
+P -Qe xorg-xwayland
+Xwayland
+Xwayland --help
+Xwayland kitty
+Xwayland -background
+Xwayland -retro -noreset :12
+Xwayland -retro -noreset :120
+Xwayland -retro -noreset :0
+Xwayland -retro -noreset :1 kitty
+DISPLAY=:12 kitty
+DISPLAY=:120 kitty
+DISPLAY=:1
+Xwayland -retro -noreset :1
+Xwayland :1
+Xwayland ":1"
+DISPLAY=:1 ktouch
+DISPLAY=:1 kitty
+DISPLAY=":1" kitty
+man sed
+paru
+man dc
+sed "s/->\ [\d.-]+\ /\n/g\
+"
+sed "s/->\ [\d.-]+\ /\n/g" updates
+sed "s/->\ [\d.-]+\ /a/g" updates
+sed "s/->\s[\d.-]+\s/a/g" updates
+sed "s/->\s+[\d\.\-]+\s/a/g" updates
+sed "s/[\d\.\-]+\s/a/" updates
+sed "s/->/a/g" updates
+sed "s/->/\n/g" updates
+sed "s/-> /\n/g" updates
+sed "s/-> [\d]+/\n/g" updates
+sed "s/-> \d+/\n/g" updates
+sed "s/->\s/\n/g" updates
+sed "s/\d+/\n/g" updates
+sed "s/\d/\n/g" updates
+sed "s/#/\n/g" updates
+sed "s/\s+[0-9\.\-]+\s+[0-9\.\-]+\s+/\n/g"
+sed "s/\s+[0-9\.\-]+\s+[0-9\.\-]+\s+/\n/g" updates
+sed -r "s/\s+[0-9\.\-]+\s+[0-9\.\-]+\s+/\n/g" updates
+sed -r "s/\s+[0-9\.\-]*\s+[0-9\.\-]*\s+/\n/g" updates
+sed -r "s/\s[0-9\.\-]*\s[0-9\.\-]*\s/\n/g" updates
+sed "s/\s+[0-9\.-]+\s+[0-9\.-]+\s+/\n/g" updates
+sed "s/[0-9\.\-]+/p/g"
+sed "s/[0-9\.\-]+/p/g" updates
+sed -r "s/[0-9\.\-]+/p/g" updates
+sed -r "s///g" updates
+sed -r "s/a//g" updates
+sed -r "\s+[0-9\.\-]\s+\-\>\s+[0-9\.\-]\s+/\n/g" updates
+sed -r "\s+[0-9\.\-]\s+\->\s+[0-9\.\-]\s+/a" updates
+sed -r "\s+[0-9\.\-]\s+\->\s+[0-9\.\-]\s+/a/g" updates
+sed -r "\s+[0-9\.\-]\s+\->\s+[0-9\.\-]\s+/\n/g" updates
+sed -r "\s+[0-9\.\-]\s+\->\s+[0-9\.\-]\s+/\ng" updates
+sed -r "\s+[0-9\.\-]\s+\->\s+[0-9\.\-]\s+/\n/" updates
+sed -r "s\s+[0-9\.\-]\s+\->\s+[0-9\.\-]\s+/\n/g" updates
+sed -r "s/\s+[0-9\.\-]\s+\->\s+[0-9\.\-]\s+/\n/g" updates
+sed -r "s/\s+.+\s+\->\s+.+\s+/\n/g" updates
+sed -r "s/\s+[0-9\.\-:]+\s+\->\s+[0-9\.\-:]+\s+/\n/g" updates
+sed -r "s/\s+[0-9\.\-\:]+\s+\->\s+[0-9\.\-\:]+\s+/\n/g" updates
+sed -r "s/\s+[0-9\.\-]+\s+\->\s+[0-9\.\-]+\s+/\n/g" updates
+sed -r "s/\s+[0-9\.\-]*\s+\->\s+[0-9\.\-]*\s+/\n/g" updates
+sed -r "s/\s+[0-9\.\-]+\s+\->\s+[0-9\.\-]+\s+/\n/g;s/\s+[0-9a-zA-Z]\s+->/\n/g" updates
+sed -r "s/\s+[0-9\.\-]+\s+\->\s+[0-9\.\-]+\s+/\n/g;s/\s+[0-9a-zA-Z]\s+\->/\n/g" updates
+sed -r "s/\s+[0-9\.\-]+\s+\->\s+[0-9\.\-]+\s+/\n/g;s/\s+[0-9a-zA-Z\.\-]\s+\->/\n/g" updates
+sed -r "s/\s+[0-9\.\-]+\s+\->\s+[0-9\.\-]+\s+/\n/g;s/\s+[0-9a-zA-Z\.\-]+\s+\->/\n/g" updates
+sed -r "s/\s+[0-9\.\-]+\s+\->\s+[0-9\.\-]+\s+/\n/g;s/\s+[0-9a-zA-Z\.\-]+\s+\->/\n/g;s/^\s.*\ //g" updates
+sed -r "s/\s+[0-9\.\-]+\s+\->\s+[0-9\.\-]+\s+/\n/g;s/\s+[0-9a-zA-Z\.\-]+\s+\->/\n/g;s/^\s.*\s//g" updates
+sed -r "s/\s+[0-9\.\-]+\s+\->\s+[0-9\.\-]+\s+/\n/g;s/\s+[0-9a-zA-Z\.\-]+\s+\->/\n/g;s/^\s+.*\s//g" updates
+sed -r "s/\s+[0-9\.\-]+\s+\->\s+[0-9\.\-]+\s+/\n/g;s/\s+[0-9a-zA-Z\.\-]+\s+\->/\n/g;s/^\s+.*\s+//g" updates
+sed -r "s/\s+[0-9\.\-]+\s+\->\s+[0-9\.\-]+\s+/\n/g;s/\s+[0-9a-zA-Z\.\-]+\s+\->/\n/g;s/^\s+.*//g" updates
+sed -r "s/\s+[0-9\.\-]+\s+\->\s+[0-9\.\-]+\s+/\n/g;s/\s+[0-9a-zA-Z\.\-]+\s+\->/\n/g;s/^\s+//g" updates
+sed -r "s/\s+[0-9\.\-]+\s+\->\s+[0-9\.\-]+\s+/\n/g;s/\s+[0-9a-zA-Z\.\-]+\s+\->/\n/g;s/^\s//g" updates
+sed -r "s/\s+[0-9\.\-]+\s+\->\s+[0-9\.\-]+\s+/\n/g;s/\s+[0-9a-zA-Z\.\-]+\s+\->/\n/g;s/^//g" updates
+sed -e "s/\s+[0-9\.\-]+\s+\->\s+[0-9\.\-]+\s+/\n/g;s/\s+[0-9a-zA-Z\.\-]+\s+\->/\n/g;s/^\s+//g" updates
+sed -r "s/\s+[0-9\.\-]+\s+\->\s+[0-9\.\-]+\s+/\n/g;s/\s+[0-9a-zA-Z\.\-]+\s+\->/\n/g;s/^/a/g" updates
+sed -r "s/\s+[0-9\.\-]+\s+\->\s+[0-9\.\-]+\s+/\n/g;s/\s+[0-9a-zA-Z\.\-]+\s+\->\s+/\n/g;s/^/a/g" updates
+sed -r "s/\s+[0-9\.\-]+\s+\->\s+[0-9\.\-]+\s+/\n/g;s/\s+[0-9a-zA-Z\.\-]+\s+\->\s+/\n/g;s/\:/a/g" updates
+sed -r "s/\s+[0-9\.\-]+\s+\->\s+[0-9\.\-]+\s+/\n/g;s/\s+[0-9a-zA-Z\.\-]+\s+\->\s+/\n/g;s/\s+[a-zA-Z0-9\.\-\:]+\s+\->\s+[a-zA-Z0-9\:\.\-]+\s+/\n/g" updates
+cat updates
+sed -r "\s+.*\s\-\>.*\s+ d"
+sed -r "\s+.*\s\-\>.*\s+ d" updates
+sed "\s+.*\s\-\>.*\s+ d" updates
+sed "/\s+.*\s\-\>.*\s+/ d" updates
+sed "/\s+.+\s\->.+\s+/ d" updates
+sed "/\s+.+\s\->.+\s+/ a\n" updates
+sed "/brave/ a\n" updates
+sed "/brave/ an" updates
+sed "/brave/ in" updates
+spot 'https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo?si=Xl6zGlHMQ8yricMRh_ZHiQ'
+echo $IDE
+v .local/bin
+ueberzug layer -l wallpapers/cycle/21735.jpg
+ueberzug layer wallpapers/cycle/21735.jpg
+man ueberzeug
+ueberzug layer -l thread wallpapers/current
+P -Rs poppler-glib
+P -Rs gimp
+P -S plasma plasma-wayland-session
+ueberzug -h
+ueberzug layer wallpapers/current
+ueberzug layer -l wallpapers/current
+sudo systemctl start sddm.service
+where plasme
+where plasma
+plasma
+P -Rs sddm
+P -Rs sddm-kcm
+P -Rs plasma plasma-wayland-session
+P -Rs kdeconnect
+P -Q | grep kde
+syncthing
+where q
+where w
+man w
+cd wallpapers
+cat index | cut -d \n -f 1
+cat index
+rm list
+wallpapercycle
+v list
+C
+cd paru
+sed -r "s/\s+[0-9\.\-\:\[\]]*\s+\->\s+[0-9\.\-\:\[\]]*\s+/\n/g" updates
+sed -r "s/\s+[0-9\.\-\:]*\s+\->\s+[0-9\.\-\:]*\s+/\n/g" updates
+sed -r "s/\s+[0-9\.\-\:]*\s\->\s[0-9\.\-\:]*\s+/\n/g" updates
+sed -r "s/\s[0-9\.\-\:]*\s\->\s[0-9\.\-\:]*\s//g" updates
+sed -r "s/\s[0-9\.\-\:]*\s\->\s//g" updates
+sed -r "s/\s[0-9\.\-]*\s\->\s//g" updates
+sed -r "s/\s[0-9\.\-]*\s\->\s/\n/g" updates
+sed -r "s/\s[a-z0-9\.\-]*\s\->\s/\n/g" updates
+sed -r "s/\s[a-z0-9\.\-]*\s\->\s/\n/g;s/.*//g" updates
+sed -r "s/\s[a-z0-9\.\-]*\s\->\s/\n/g;s/.*\s//g" updates
+sed -r "s/\s[a-z0-9\.\-]*\s\->\s+/\n/g;s/.*\s//g" updates
+sed -r "s/\s[a-z0-9\.\-]*\s\->\s+/\n/g;s/^.*\s//g" updates
+sed -r "s/\s[a-z0-9\.\-]*\s\->\s+/\n/g;s/^.+\s//g" updates
+sed -r "s/\s[a-z0-9\.\-]*\s\->\s+/\n/g;s/^.*\s/a/g" updates
+sed -r "s/\s[a-z0-9\.\-]*\s\->\s+/\n/g;s/^.* /a/g" updates
+sed -r "s/\s[a-z0-9\.\-]*\s\->\s+/\n/g;" updates
+sed -r "s/\s.*\s\->\s+/\n/g;" updates
+sed -r "s/\s\c*\s\->\s+/\n/g;" updates
+sed -r "s/\s\a*\s\->\s+/\n/g;" updates
+sed -r "s/\s\d*\s\->\s+/\n/g;" updates
+sed -r "s/\s*\s\->\s+/\n/g;" updates
+sed -r "s/\s\->\s/\n/g;" updates
+sed -r "s/\s\->\s/\n/g;s/^[0-9a-zA-Z]+\s//g" updates
+sed -r "s/\s\->\s/\n/g;s/^[0-9a-zA-Z\.\-]+\s//g" updates
+sed -r "s/\s\->\s/\n/g;s/^[0-9a-zA-Z\.\-]*\s//g" updates
+sed -r "s/\s\->\s/\n/g;s/^[0-9\.\-]+\s//g" updates
+sed -r "s/\s\->\s/\n/g;s/^[0-9a-zA-Z\.-]*\s//g" updates
+sed -r "s/\s\->\s/\n/g;s/^.*\s//g" updates
+sed -r "s/\s\->\s/\n/g;s/^.*\s//" updates
+P -Q | grep clip
+v updates
+sed -r "s/\s+((? updates
+sed -r "s/\s+\S+\s+\-\>\s\S+\s/\n/g" updates
+sed -r "s/\s+(^\s)+\s+\-\>\s(^\S)+\s/\n/g" updates
+sed -r "s/\s+(^\S)+\s+->\s(^\S)+\s/\n/g" updates
+sed -r "s/\s+(^\S)+\s+\->\s(^\S)+\s/\n/g" updates
+sed -r "s/\s+(^\S)+\s+\-\>\s(^\S)+\s/\n/g" updates
+sed -r "s/\s+(\S)+\s+\-\>\s(\S)+\s/\n/g" updates
+sed -r "s/\s+(^\s)+\s+\-\>\s([a-zA-Z0-9\-\_])+\s/\n/g" updates
+sed -r "s/\s+([a-zA-Z0-9\-\_])+\s+\-\>\s([a-zA-Z0-9\-\_])+\s/\n/g" updates
+sed -r "s/\s+([a-zA-Z0-9\-\_\.])+\s+\-\>\s([a-zA-Z0-9\-\_\.])+\s/\n/g" updates
+sed -r "s/\s+(^\s)+\s+\-\>\s(^\s)+\s/\n/g" updates
+sed -e "s/\s+(^\s)+\s+\-\>\s(^\s)+\s/\n/g" updates
+sed -e "s/\s+(\S)+\s+\-\>\s(\S)+\s/\n/g" updates
+sed -e "s/\s+\S+\s+\-\>\s(\S)+\s/\n/g" updates
+sed -e "s/\s+\S+\s+-\>\s(\S)+\s/\n/g" updates
+sed -e "s/\s+\S+\s+->\s(\S)+\s/\n/g" updates
+sed -e "s/\s+\S+\s+\->\s(\S)+\s/\n/g" updates
+sed -e "s/\s+\S+\s+(->)\s(\S)+\s/\n/g" updates
+sed --regexp-extended 's/\s+\S+\s->\s+\S+(\s|$)+/\n/g;s/^$//g' updates
+sed --regexp-extended 's/\s+\S+\s->\s+\S+(\s|$)+/\n/g;/^$/d' updates
+sed --regexp-extended 's/\s+\S+\s->\s+\S+(\s|$)+/\n/g;/^$/ d /g' updates
+sed --regexp-extended 's/\s+\S+\s->\s+\S+(\s|$)+/\n/g;/^$/ d' updates
+sed --regexp-extended 's/\s+\S+\s->\s+\S+(\s|$)+/\n/g;/^$/ p' updates
+sed --regexp-extended 's/\s+\S+\s->\s+\S+(\s|$)+/\n/g; /^$/ p' updates
+sed --regexp-extended 's/\s+\S+\s->\s+\S+(\s|$)+/\n/g' updates
+paru -Qu | sed --regexp-extended "s/\s+\S+\s->\s+\S+(\s|$)+/\n/g"
+paru -Qu | sed --regexp-extended "s/\s+\S+\s->\s+\S+(\s|$)+/\n/g; /^$/ d"
+paru -Qu | sed --regexp-extended "s/\s+\S+\s->\s+\S+(\s|$)+/\n/g; /^\s*$/ d"
+paru -Qu | sed --regexp-extended "s/\s+\S+\s->\s+\S+(\s|$)+/\n/g; s/^\s*$/d/g"
+paru -Qu | sed --regexp-extended "s/\s+\S+\s->\s+\S+(\s|$)+/\n/g; s/^$/d/g"
+paru -Qu 
+paru -Qu | sed 
+paru -Qu | sed -e ""
+checkup
+pkill activate-linux
+activate-linux -h
+activate-linux -t "ACTIVATE UNIX" -m "open unix to activate settings"
+activate-linux -t "ACTIVATE UNIX" -m "open unix to activate settings" -f "conforta"
+activate-linux -t "ACTIVATE UNIX" -m "open unix to activate settings" -f "comforta"
+activate-linux -t "ACTIVATE UNIX" -m "open unix to activate settings" -f "comfortaa"
+pkill kitty
+kitty +list-fonts
+kitty +list-fonts | conf
+kitty +list-fonts | grep comf
+kitty +list-fonts | grep
+P -S discord steam
+pass
+pass edit deshpandetanmay365@gmail.com
+pass show deshpandetanmay365@gmail.com
+touch .mbsync
+rm .mbsync
+mkdir .mbsyncrc
+rmdir .mbsyncrc
+touch .mbsyncrc
+mw -Y
+mw
+mw -d deshpandetanmay365@gmail.com
+mw -a deshpandetanmay365@gmail.com -n "justACatBuryMe" -x "qoovmkbzsscorsfj"
+mw -a deshpandetanmay2003@gmail.com -n "Tanmay Deshpande" -x "qoovmkbzsscorsfj"
+mw -a deshpandetanmay2003@gmail.com -n "Tanmay Deshpande" -x "svlubycjaypfpvpe"
+lsusb
+sudo mount /dev/sdb /mnt
+xit
+cd MCU-Infinity\ Saga/Spider-Man
+du . -h
+du Spider-Man\ Far\ From\ Home\ \(2019\) Spider-Man\ Homecoming\ \(2017\) Spider-Man\ No\ Way\ Home\ \(2021\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\] -h
+du Spider-Man\ Far\ From\ Home\ \(2019\) Spider-Man\ Homecoming\ \(2017\) Spider-Man\ No\ Way\ Home\ \(2021\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\] The\ Amazing\ Spiderman\ \(2012\)\ \[1080p\] Spider\ Man\ \(2002\)\ \[1080p\] -h
+cd 
+cd /mnt
+cd Spider
+cd Spider\ Man\ \(2002\)\ \[1080p\]
+mpv Spider.Man.2002.1080p.BluRay.x264.YIFY.mp4
+pkill lf
+sudo umount -l /mnt
+sudo mount /dev/sdb1 /mnt
+sudo mount /dev/sdc2 /mnt
+sudo mkfs.ext4 /dev/sdc
+cp What\ We\ Do\ in\ the\ Shadows\ \(2014\)\ \[1080p\] /mnt -r
+sudo mount /dev/sdc /mnt
+cd Horror
+sudo cp What\ We\ Do\ in\ the\ Shadows\ \(2014\)\ \[1080p\] /mnt -r
+sudo umount /mnt
+acpi
+curl 192.168.1.1 > asd
+ip route show
+nmcli device wifi connect Airtel_9552546602_5GHz 
+nmcli device wifi connect Airtel_9552546602_5GHz password air68343
+nmcli device wifi connect Airtel_9552546602_5GHz password "air68343"
+nmcli device wifi connect Airtel_9552546602_5GHz password="air68343"
+jobtime -h
+jobtime 16200 4650 23328 19900
+jobtime 240 344 926486 41350
+jobtime 120 860 1555200 335500
+t
+removewallpaper
+rm dxwebsetup.exe
+rm in.gov.cbse-HSCER-156184872022*
+rm VisualCppRedist_AIO_x86_x64_61.zip
+unzip Sara.zip
+rm Sara -r
+rm Sara.zip
+unzip 
+unzip RT2H_v3.0.zip
+rm RT2H* -r
+P -Ss cheat engine
+P -S ceserver
+spot 'https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR?si=il7LX4l6Q-KN3oDYbKOPOA' 'https://open.spotify.com/album/01yg4gm9pFOJbwQKj46ZYK?si=gzuB432RT1CFGG0LS2aqhQ'
+ls *spot*
+ls *Gett*
+rm Getting\ Older.spotdlTrackingFile
+ls *Spot*
+killall discord steam
+killall discord
+killall steam
+avahi-browse
+avahi-daemon
+sudo avahi-daemon
+avahi-browse google.com
+killall avahi
+P -S fireshot
+P -Ss fireshot
+P -Ss fire shot
+P -Ss shot
+P -Ss fire
+P -S xdg-desktop-portal xdg-desktop-portal-wlr grim 
+flameshot
+flameshot config
+flameshot gui -d 2000
+flameshot full -p ~
+flameshot screen -n 1
+flameshot screen -n 0
+flameshot config --showhelp true
+echo $QT_QPA_PLATFORM
+QT_QPA_PLATFORM=xcb flameshot gui
+QT_QPA_PLATFORM=xcb flameshot full
+flatpak run flameshot gui
+sudo flatpak run org.flameshot.Flameshot
+flatpak
+swau
+cd /tmp
+sudo flatpak run org.flameshot.Flameshot --allow-root
+sudo -i
+flatpak run --allow-root org.flameshot.Flameshot
+sudo flatpak run --allow-root org.flameshot.Flameshot
+flatpak reinstall flameshot
+flatpak install flameshot
+flatpak org.flameshot.Flameshot
+sudo umask
+man umask
+umask
+P -S flatpak
+chown --help
+ls /tmp -a
+sudo chmod a+w /tmp/.X11-unix
+ls /tmp -an
+ls /tmp -al
+fl
+mkdir /tmp/.X11-unix
+rm /tmp/.X11-unix -r
+QT_QPA_PLATFORM=xcb flatpak run org.flameshot.Flameshot
+P -S qt5-wayland
+killall xdg-desktop-por
+killall xdg-desktop-portal
+flatpak run org.flameshot.Flameshot gui
+flatpak run org.flameshot.Flameshot full
+flatpak run org.flameshot.Flameshot
+flatpak run org.flameshot.Flameshot fill -c -p ~/Pictures
+flatpak run org.flameshot.Flameshot full -c -p ~/Pictures
+flatpak uninstall *
+flatpak uninstall all
+ps aux | grep portal
+P -S gst-plugin-pipewire
+pkill xdg-desktop-por
+pkill xdg-desktop-portal
+ls /usr/share/xdg-desktop-portal/portals
+cat /usr/share/xdg-desktop-portal/portals/wlr.portal
+flatpak uninstall flameshot
+P -S swappy
+swappy
+grim 
+ls Pictures/screenshot
+sxiv Pictures/screenshot/20220824_16h07m27s_grim.png
+echo $SDL_VIDEODRIVER=wayland\
+echo $_JAVA_AWT_WM_NONREPARENTING=1\
+echo $QT_QPA_PLATFORM=wayland\
+echo $XDG_CURRENT_DESKTOP=sway\
+echo $XDG_SESSION_DESKTOP=sway
+systemctl --user import-environment
+P -Rs swappy
+flameshot gui
+dbus-monitor --session sender=org.freedesktop.portal.Desktop destination=org.freedesktop.portal.Desktop
+P -Rs flameshot
+flatpak uninstall --all
+P -Rs flatpa
+P -Rs flatpak
+P -Rs haskell
+P -Rs haskell-blaze-builder
+P -Rs haskell-http-client
+P -Rs haskell-http-client-tls
+P -Rs pandoc
+killall acticate-linux
+killall activate-linux
+swaynag asdf
+swaynag -b asdf echo asdf
+swaynag -b asdf echo asdf --message asdf
+swaynag -b asddf "echo dasdf" --message asdf
+swaynag -b asddf "notify-send dasdf" --message asdf
+swaynag --message shutdown? -b yes "notify-send shutdown" -b no "notify-send lock" --font Comfortaa --background ffcccc --text 004444
+swaynag --message "shutdown?" -b yes "notify-send shutdown" -b no "notify-send lock" --font Comfortaa --background ffcccc --text 004444
+swaynag --message "shutdown?" -b yes "notify-send shutdown" -b no "notify-send lock" --font Comfortaa --background ffcccc --text 004444 --button-background ccffcc --button-text 440044
+swaynag --message "shutdown?" -b yes "notify-send shutdown" -b no "notify-send lock" --font Comfortaa --background ffcccc --text 004444 --button-background ccccff --button-text 444400
+swaynag --message "shutdown?" -b yes "notify-send shutdown" -b no "notify-send lock" --font Comfortaa --background ffcccc --text 004444 --button-background ccccff --button-text 444400 --button-border-size 0
+swaynag --message "shutdown?" --button-dismiss yes "notify-send shutdown" --button-dismiss no "notify-send lock" --font Comfortaa --background ffcccc --text 004444 --button-background ccccff --button-text 444400 --button-border-size 0
+swaynag --message "shutdown?" --button-dismiss yes "notify-send shutdown" --button-dismiss no "notify-send lock" --font Comfortaa --background ffcccc --text 004444 --button-background ccccff --button-text 444400 --button-border-size 0 --border-bottom-size 0 --button-padding 0
+swaynag --message "shutdown?" --button-dismiss yes "notify-send shutdown" --button-dismiss no "notify-send lock" --font Comfortaa --background ffcccc --text 004444 --button-background ccccff --button-text 444400 --button-border-size 0 --border-bottom-size 0 --button-padding 10
+swaynag --message "shutdown?" --button-dismiss yes "notify-send shutdown" --button-dismiss no "notify-send lock" --font Comfortaa --background ffcccc --text 004444 --button-background ccccff --button-text 444400 --button-border-size 0 --border-bottom-size 0 --button-padding 5
+swaynag --message "shutdown?" --button-dismiss yes "notify-send shutdown" --button-dismiss no "notify-send lock" --font Comfortaa --background ffcccc --text 004444 --button-background ccccff --button-text 444400 --button-border-size 0 --border-bottom-size 0 --button-padding 7
+pacman -S xf86-video-intel xorg-server xorg-apps xorg-xinit xterm xorg-fonts-100dpi xorg-fonts-75dpi autorandr\
+
+sudo pacman -S xf86-video-intel xorg-server xorg-apps xorg-xinit xterm xorg-fonts-100dpi xorg-fonts-75dpi autorandr\
+
+pacman -S plasma kde-applications plasma-nm ttf-dejavu ttf-liberation
+P -S kdesdk-kio
+sudo pacman -S plasma kde-applications plasma-nm ttf-dejavu ttf-liberation
+mv .local .local.bkp
+P -S xorg-xinit
+P -S xorg
+mv .config .config.bkp
+mv .config.bkp .config
+where sysact
+ls .config
+ls .local/bin
+ls .local/
+ls .local
+ls .local/.local.bkp
+cd .local
+mv .local.bkp ..
+mv .local/.local.bkp .
+rm -rf .local
+P -S xorg-server
+P -Ss twm
+P -Ss x clock
+p -Ss twm
+p -Ss x clock
+P -S xorg-twm xorg-oclock
+startplasma-wayland
+kdeinit5
+startplasma-x11
+xinit
+killall xinit
+EXIT
+h xorg
+P -S xorg-server-xephyr xorg-server-common xorg-xinput
+mv .cache .cache/.bkp
+kitty
+v ~c/sway/config
+zsh
+rm .local -rf
+mv .local.bkp .local
+rm .cache
+v ~c/x11/xresources
+echo $XINITRC
+v ~c/x11/xintirc
+i3
+mv .cache .cache.bkp
+rm .cache -r
+mv .cache.bkp .cache
+ls .config/X11
+ls .config/x11
+startx .config/x11/xintirc
+man startx
+cp ~c/x11/xintirc .
+mv xintirc .xintirc
+oclock
+P -S xwallpaper
+man xwallpaper
+v .xintirc
+cd .config
+rm i3 -r
+cp sway i3
+cp sway i3 -r
+grep ~c/sway/config xkb
+grep xkb ~c/sway/config
+xkbcomp caps:super,altwin:menu_win,shift:both_shiftlock
+man xkbcomp
+P -S polybar
+setxkbmap -options caps:super,altwin:menu_win,shift:both_shiftlock
+setxkbmap -option shift:capslock
+setxkbmap -option shift:caps_lock
+pkill i#
+P -Rs polybar
+v ~c/i3/config
+P -S plasma kde-applications plasma-nm ttf-dejavu ttf-liberation
+qt5ct
+P -Rs i3 i3-gaps i3lock
+P -Ss qt browser
+P -S qutebrowser
+vw startwayland
+startkde
+pkill kde
+pkill xinit
+setxkbmap -option caps:shift_lock
+setxkbmap -option caps:shiftlock
+h option
+v notify-test
+./notify-test
+quit
+echo $term
+echo $termcap
+echo $terminfo
+echo $TERMINFO
+P -S flameshot
+kde-systemsettings-tree.py
+vw enc
+vw env
+env
+env USER
+man env
+systemsettings
+gsettings
+mkdir Games
+cd Games
+cd American\ Truck\ Simulator\ \[FitGirl\ Repack\]
+rm Games Desktop/* .local/share/wineprefixes/ -r
+rm Games .local/share/wineprefixes/ -r
+P -Rs winetricks
+jobtime 1 31 12096000 0 
+jobtime 210 548 264710 164800
+mpc -f "%name%"
+mpc -f "%track%"
+mpc -f %title%
+mpc -f title
+mpc -f "title"
+mpc -f "%title"
+mpc -f "%title%"
+mpc
+mpc -f "%title" | cut -d "\n" -f 1
+mpc -f "%title" | head -l 1
+mpc -f "%title" | head -n 1
+mpc -f "%title%" | head -n 1
+spot 'https://open.spotify.com/album/336zShyOVetm0PihSMxnka?si=K_LWa1HwS4qkePFxMsqsXw'
+P -Ss cursor
+p -Ss cursor
+cd oreo_spark_light_pink_cursors
+cd cursors
+sxiv down-arrow
+rm oreo_spark_light_pink_cursors -r
+man lxappearance
+tar -xzf oreo-spark-light-pink-cursors.tar.gz
+tar -xxf satania-cursor.tar.xz
+spot https://open.spotify.com/album/4v0Xyz0LVToUsSTGdsvKSK
+echo $SWAYSOCK
+echo $XCURSOR_SIZE
+jobtime 240 627 926486 4490
+qutebrowser 'https://www.youtube.com/watch?v=wlUV6y5TUko&list=TLPQMjcwODIwMjKR6uxknya1Rw&index=9'
+neofetch OS
+neofetch 1
+neofetch 2
+P -S rofi
+rofi window
+echo "a d g" | rofi
+echo "a d g" | rofi -
+echo "a d g" | rofi -show
+find rasi
+P -S papirus-icon-theme
+rofi
+rofi -show window
+rofi -show windowcd
+rofi -show keys
+man rfi
+rofi -show filebrowser
+rofi -show drun
+P -S qalculator
+P -S qalc
+P -S qalculate
+p -Ss qalc
+qalc
+P -S rofi-emoji
+p -S rofi-calc
+p -Ss rofi-pass
+curl https://raw.githubusercontent.com/ericmurphyxyz/rofi-wifi-menu/master/rofi-wifi-menu.sh >> wifi
+chmod +x wifi
+v wifi
+wifi
+updates
+macho -h
+macho --help
+macho help
+manual
+rm Manuals -r
+apropos brave
+apropos gcc
+P -S tldr
+tldr brave
+tldr gcc
+apropos
+echo $TERMINAL
+echo $TERM
+system-config-printer
+pwd
+cd Steam
+fzf
+cd steamapps
+cd common
+cd Fishing\ Planet
+./FishingPlanet
+./FishingPlanet.X86_64
+cd Steam/steamapps/common/Fishing\ Planet
+P -S picom
+mkdir AS
+cd AS
+v kdeautostart
+picom
+v AS/kdeautostart 
+tree /
+P -S i3
+V /etc/X11/xinit/xinitrc
+cp sway/config i3/config
+pkill i3
+setxkbmap -option altwin:menu_win,shift:both_shiftlock
+setxkbmap -option caps:super,altwin:menu_win,shift:both_shiftlock
+picom --help
+picom --help | grep blur
+xbacklight --help
+tldr xbacklight
+pulsemixer
+i3bar --help
+P -S i3status
+V /etc/i3status.conf
+pkill i3status
+i3status
+config --help
+startx
+Xwayland -retro -noreset :1 & DISPLAY=:1 kitty
+DISPLAY=":1" xterm
+pkill Xwayland
+update_repos
+jobtime 450000 117570 72000 34810
+P -Rs plasma kde-applications plasma-nm ttf-dejavu ttf-liberation
+where poweroff
+[
+[]
+exec [
+where [
+w3m ./Nerd\ Fonts\ -\ Iconic\ font\ aggregator,\ glyphs_icons\ collection,\ \&\ fonts\ patcher.html
+git add .config/ .local/bin/ .zprofile
+git add .config/
+rm .git/index.lock
+git add .local/bin/
+git commit -m "$date"
+cat githubpassword
+git push
+
+paru -Ss zsh autosuggestions
+sudo pacman -S zsh-autosuggestions
+ls /usr/share/zsh/plugins/zsh-autosuggestions/
+sudo pacman -S nodejs golang
+sudo pacman -S nodejs go
+rm .local/share/nvim/plugged/vim-hexokinase -rf
+paru -Ss zsh syntax highlighting
+sudo pacman -S zsh-syntax-highlighting
+sudo pacman -Ss xdg desktop
+sudo pacman -S xdg-desktop-portal xdg-desktop-portal-wlr xdg-user-dirs
+sudo pacman -S man
+man xdg-user-dir
+xdg-user-dirs-update
+echo $EDITOR
+echo $VISUAL
+echo $DISPLAY
+rofi -show run
+firefox
+firefox -
+p -S pamixer light
+sudo p -Ss xwayland
+p -Ss xwayland
+p -S pamixer light xorg-xwayland
+p -Syu
+visudo
+p -Ss sway
+P -S swaybg swaylock-effects
+p -S crontab syncthing kde-connect
+p -Ss cron
+p -Ss kde connect
+p -S cronie syncthing kdeconnect
+swaymsg reload
+swaymsg exit
+p -Rs brave-bin
+p -S zip
+zip FiraCode.zip
+man zip
+p -S unzip
+unzip FiraCode.zip
+mv
+mv FiraCode.zip ..
+mkdir ~/.local/share/fonts
+mv * ~/.local/share/fonts
+mv ../FiraCode.zip .
+man light
+light -U
+sudo light -U -5
+config sudo
+p -S neovide
+config sway
+vw sysact
+neovide -c source .config/sway/session
+neovide -- -c source .config/sway/session
+ls /etc/sudoers.d
+cat /etc/sudoers
+curl https://gist.githubusercontent.com/alitoufighi/679304d9585304075ba1ad93f80cce0e/raw/ceb52af51d8ffcb91d37cad26667b68c80a20b04/sudoers >> sudoers
+vw config
+sudo echo adf
+v sudoers
+p -S mako neovide
+export IDE=neovide
+man usermod
+passwd tanmay
+sudo usermod -aG video tanmay
+sudo mpv Bhool.Bhulaiyaa.2.2022.1080p.Hindi.WEB-DL.H.264.DDP5.1-NbT.mkv Men\ \(2022\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/Men.2022.1080p.WEBRip.x264.AAC5.1-\[YTS.MX\].mp4 Watcher\ \(2022\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/Watcher.2022.1080p.WEBRip.x264.AAC5.1-\[YTS.MX\].mp4 The\ King\ of\ Comedy\ \(1982\)\ \[1080p\]/The.King.of.Comedy.1982.1080p.BluRay.x264.YIFY.mp4 2001\ A\ Space\ Odyssey\ \(1968\)\ \[BluRay\]\ \[1080p\]\ \[YTS.AM\]/2001.A.Space.Odyssey.1968.1080p.BluRay.x264-\[YTS.AM\].mp4 Donnie\ Darko\ DIRECTORS\ CUT\ \(2001\)\ \[1080p\]/Donnie.Darko.DIRECTORS.CUT.2001.1080p.BrRip.x264.YIFY.mp4 Eyes\ Wide\ Shut\ \(1999\)\ \[1080p\]/Eyes.Wide.Shut.1999.1080p.BluRay.x264.YIFY.mp4 Men\ \(2022\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/Men.2022.1080p.WEBRip.x264.AAC5.1-\[YTS.MX\].mp4 X\ \(2022\)\ \[1080p\]\ \[BluRay\]\ \[5.1\]\ \[YTS.MX\]/X.2022.1080p.BluRay.x264.AAC5.1-\[YTS.MX\].mp4
+sudo light -A 5
+sudo light -U 5
+sudo EDITOR=nvim visudo
+shutdown now
+sudo nvim /etc/sudoers
+pacman -Ss bash top
+pacman -Ss btop
+p -S btop bashtop
+bashtop
+P -Rs bashtop
+btop
+p -S lf
+pacman -Ss python nvim
+p -S python-pynvim
+# sudo curl https://raw.githubusercontent.com/haikarainen/light/master/90-backlight.rules >> /usr/lib/udev/rules.d/90-backlight.rules
+v /usr/lib/udev/rules.d/90-light-backlight.rules
+groups
+light -A 5
+light -U 5
+p -S scrot
+rofi -dmenu
+config binaries
+systemctl list
+systemctl show
+p -S npm
+man waybar-memory
+echo :s:
+echo ":s:"
+macho sdf
+macho s
+macho ?
+macho ?firefix
+macho firefox
+apropos -s
+apropos --help
+cat /etc/man_db.conf
+p -S man
+man --help
+man -M
+manpath
+xls
+mkdir comfortaa
+unzip comfortaa.zip
+mv Comfortaa-* comfortaa
+mv donate.html comfortaa
+mv FONTLOG.txt comfortaa
+mv OFL.txt comfortaa
+mv comfortaa ~S/fonts
+man swaylock
+startwayland
+P -Rs macho
+P -Ss macho
+ls $MANPATH
+sudo makewhatis
+sudo mandb
+apropos .
+P -S macho
+macho
+vw macho
+crontab -l
+curl https://raw.githubusercontent.com/pyllyukko/user.js/master/user.js >> user.js
+v user.js
+mkdir ../userjsbkp
+mv user.js ../userjsbkp
+v prefs.js
+p -Rs firefox
+P -S brave-bin
+rofi-theme-selector
+rofi -dmenu -P
+rofi -dmenu -p asdf
+rofi -dmenu -p asdf -P
+rofi -dmenu -p asdf -dsf
+rofi -dmenu -p asdf -pass
+dmenupass asdf
+dmenupass asd
+h qt5ct
+P -S lxappearance qt5ct ktouch
+P -Rs lxappearance qt5ct
+P -S sddm sddm-sugar-candy plymouth
+sudo systemctl stop sddm.service
+sudo systemctl disable sddm.service
+v /etc/mkinitcpio.conf
+P -Ss systemd boot password
+P -S systemd-boot-password
+V /boot/loader/entries/2022-09-02_11-42-03_linux.conf 
+sudo systemctl enable sddm-plymouth.service
+unzip spin_plymouth.zip
+sudo mv spin /usr/share/plymouth/themes/
+cd /usr/share/plymouth/themes/
+P -S ueberzug
+man reboot
+V /etc/plymouth/plymouthd.conf
+sudo mkinitcpio -p linux
+iplayrunescape
+sudo systemctl restart sddm.service
+pkill sway
+P -S sddm-sugar-candy
+sddm-greeter --test-mode --theme /usr/share/sddm/themes/sugar-candy
+sudo rm /etc/sddm.conf
+cd /etc/
+mkdir sddm.conf.d
+sudo mkdir sddm.conf.d
+cd sddm.conf.d
+sudo cp /usr/lib/sddm/sddm.conf.d/default.conf .
+v default.conf
+sudo mv default.conf sddm.conf
+V sddm.conf
+sddm-greeter --test-mode --theme sugar-candy
+ls /usr/share/sddm/themes
+sddm-greeter --test-mode
+v sddm.conf
+sudo lf
+cd /usr/share/sddm/themes/sugar-candy/Backgrounds
+sudo mv 4666.png Custom.png
+v ../theme.conf
+P -S discord
+p -S libreoffice
+P -S spot-dl
+P -Sss spotdl
+P -S spotdl
+ls /usr/bin | grep tutor
+ls /usr/bin | grep t
+p -S vim
+vimtutor
+v vimtut
+P -Rs vim
+brave
+P -S pacseek
+pacseek
+P -Rs pacseek
+P -Rs qbittorrent
+P -S transmission
+p -S transmission-cli transmission-gtk -Rs transmission-qt
+p -S transmission-cli transmission-gtk
+jobtime --help
+P -Qe | grep base
+P -S base-devel
+P -S bc
+vw jobtime
+jobtime 244140625 238890 69 31
+sudo su
+P -Rs bluez
+P -Rs bluez-libs
+P -S imagemagick
+P -S w3m
+ls .w3m
+P -s
+P -S alacritty
+w3m google.com
+P -Rs alacritty
+P -S xterm
+cd lf
+v cleaner
+vw ueberzug
+vw lfub
+v scope
+v draw_img
+v clear_img
+v previewer
+v lfrc
+rm cleaner scope
+rm clear_img draw_img previewer
+where lf
+lf
+P -Rs lf
+h lf
+P -S ranger
+v ranger
+man ranger
+cp /usr/share/doc/ranger/config/rc.conf .
+mv rc.conf ranger
+cd ranger
+v rc.conf
+P -S sleek
+v ~c/pacseek/config.json
+rm .local/share/nvim/plugged/coc.nvim -rf
+config zsh
+config vim
+config nvim
+git clone --depth 1 https://github.com/doomemacs/doomemacs ~/.emacs.d\
+~/.emacs.d/bin/doom install
+emacs --help
+emacsclient --help
+P -Ss sway clipboard
+P -Ss sway clip
+P -Ss wayland clip
+P -S wl-clipboard
+emacsclient -c -a notify-send "-a emacs -u critical EMACS no daemon"
+emacsclient -c | "notify-send -a emacs -u critical EMACS no daemon"
+emacsclient -c || "notify-send -a emacs -u critical EMACS no daemon"
+emacsclient -c || notify-send -a emacs -u critical EMACS no daemon
+emacsclient -c && notify-send -a emacs -u critical EMACS no daemon
+emacsclient -c ; notify-send -a emacs -u critical EMACS no daemon
+notify-send -a emacs -u critical "EMACS no daemon"
+notify-send -a emacs -u critical "EMACS" "no daemon"
+notify-send -a emacs -u critical 'EMACS' 'no daemon'
+emacsclient -c -a "notify-send -a emacs -u critical 'EMACS' 'no daemon'"
+emacsclient -c -a "notify-send -a emacs -u critical 'EMACS no daemon'"
+emacsclient -c -a "notify-send -a emacs -u critical EMACS no daemon"
+emacsclient -c -a "notify-send 'EMACS' 'no daemon' -a emacs -u critical"
+emacsclient -c -a "notify-send EMACS no daemon -a emacs -u critical"
+notify-send -a emacs -u critical EMACS no daemon
+notify-send -a emacs -u critical { EMACS no daemon }
+notify-send -u critical EMACS no daemon
+notify-send EMACS no daemon -a emacs -u critical
+notify-send EMACS no daemon -u critical
+mako
+notify-send EMACS
+notify-send EMACS no daemon
+notify-send "EMACS no daemon"
+notify-send EMACS "no daemon"
+notify-send EMACS "no daemon" -u critical
+echo "notify-send EMACS "no daemon" -u critical" >> $(where ide)
+notify-send EMACS 'no daemon' -u critical
+emacsclient -c -a "notify-send EMACS 'no daemon' -u critical"
+emacsclient -c -a "notify-send EMACS no daemon -u critical"
+emacsclient -c -a "notify-send 'EMACS no daemon' -u critical"
+emacsclient -c -a "notify-send EMACS"
+emacsclient -c -a "notify-send EMACS no"
+emacsclient -c -a "notify-send EMACS 'no daemon'"
+emacsclient -c -a "notify-send EMACS no daemon"
+emacsclient -c -a "notify-send EMACS daemon"
+emacsclient -c -a notify-send EMACS daemon
+ie
+emacsclient -c -a notify-send EMACS "no daemon"
+echo emacsclient -c -a notify-send EMACS "no daemon" >> $(where ide)
+cat $(where ide\
+)
+notify-send -u critical EMACS "no daemon"
+emacsclient -c -a notify-send -u critical EMACS "no daemon"
+emacsclient -c -a echo 5 $$ notify-send -u critical EMACS "no daemon"
+emacsclient -c -a echo 5 && notify-send -u critical EMACS "no daemon"
+emacsclient -c -a echo 3 4 5 6 && notify-send -u critical EMACS "no daemon"
+emacsclient -ca notify-send -u critical EMACS "no daemon"
+emacsclient -ca notify-send -u critical EMACS no
+vw ide
+id
+P -Ss dunstify
+P -Rs dunst
+pkill dunst
+where asdf
+man notify-send
+P -S dunst
+dunst &
+function asdf {\
+pkill mako\
+mako &\
+notify-send -i .local/share/wallpapers/weeb/1014.png asdf\
+}
+function asdf {\
+pkill mako\
+mako &\
+notify-send -i /usr/share/icons/Adwaita/16x16/actions/action-unavailable-symbolic.symbolic.png asdf\
+}
+paplay /usr/share/sounds/freedesktop/stereo/message-new-instant.oga
+paplay /usr/share/sounds/freedesktop/stereo/message.oga
+paplay /usr/share/sounds/freedesktop/stereo/bell.oga
+paplay /usr/share/sounds/freedesktop/stereo/phone-incoming-call.oga
+ide
+systemctl suspend
+ls /
+doom upgrade
+cal
+h mono
+h sauce
+h Source
+v $ZDOTDIR/history
+ls Torrents
+ls Movies
+ls Downloads
+man waybar-clock
+ls .config -a
+v .config/gtk-3.0/settings.ini
+nmcli con mod $connectionName ipv4.dns "9.9.9.10 149.112.112.10"
+nmcli con mod $connectionName Airtel_9552546602_5GHz "9.9.9.10 149.112.112.10"
+nmcli con mod Airtel_9552546602_5GHz ipv4.dns "9.9.9.10 149.112.112.10"
+nmcli con mod Airtel_9552546602_5GHz ipv6.dns "2620:fe::10 2620:fe::fe:10"
+systemctl restart NetworkManager
+man waybar
+time df /home -h
+pkill mako
+transmission-cli --help
+man transmission-show
+man transmission-cli
+man transmission-daemon
+transmission-remote --help
+transmission-remote -i
+man transmission-remote
+ls ~c/transmission/torrents
+transmission-daemon
+transmission-remote -l
+sudo systemctl enable transmission.service
+P -S tremc
+sudo systemctl start transmission.service
+for i in $(ls ~c/transmission/torrents/); do\
+echo $i\
+done
+for i in $(ls ~c/transmission/torrents/); do\
+transmission-remote -a /home/tanmay/.config/transmission/torrents/$i\
+done
+transmission-remote --download-dir
+transmission-remote --list
+systemctl restart transmission.service
+ls ~d
+ls ~D
+ls ~D -a
+transmission-remote --exit
+systemctl stop transmission.service
+systemctl disable transmission.service
+ls /var/lib/transmission/
+sudo ls /var/lib/transmission/
+sudo ls /var/lib/transmission/Downloads
+sudo rm /var/lib/transmission/Downloads
+sudo rm /var/lib/transmission/Downloads -rf
+P -S lxappearance
+P -Rs ranger
+P -S lf
+lfub
+ranger
+function asdf {\
+pkill mako\
+mako &\
+notify-send asdf\
+}
+notify-send asdf
+ln /root/.config/nvim /home/tanmay/.config/nvim
+sudo mkdir /root/.config
+cat /root/.config
+sudo cat /root/.config
+sudo ls /root/.config
+sudo mkdir /root/.config/nvim
+sudo ln /root/.config/nvim /home/tanmay/.config/nvim
+man ln
+sudo ln /root/.config/nvim /home/tanmay/.config/nvim -s
+V /etc/systemd/logind.conf
+V
+sudo systemctl restart systemd-logind.service
+sway
+reboot
+P -S obs
+P -S obs-studio
+P -S reflectir
+P -S reflector
+man reflector
+v /etc/man_db.conf
+$MANPATH=
+MANPATH=
+echo $MANPATH
+mandb
+reflector --latest 30 --sort rate --save /etc/pacman.d/mirrorlist --protocol http,https
+P -S gimp kdenlive
+v global.ini
+M
+ls */*.txt
+rm */*.txt
+ls */*.jpg
+rm */*.jpg
+ls */other
+ls */subs
+ls */Other
+ls Captain\ America\ Civil\ War\ \(2016\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]
+ls */Subs
+P -S transmission-qt
+P -Rs transmission-gtk
+syncthing --help
+syncthing serve --help
+syncthing serve --help connections
+syncthing serve --help connections --help
+man syncthing
+P -S shellcheck
+shellcheck susact
+shellcheck sysact
+bindings
+shellcheck bindings
+cd sadpanda
+shellcheck jobtime
+P -Rs shellcheck
+h spot
+spot 'https://open.spotify.com/album/4wIX07SiESzMbSLCK3qCWQ?si=_N2bA4b6Quun2_kU4E_ncw' 'https://open.spotify.com/album/6F05ZwnERzhfJ7KNVq6fsU?si=pg6xBrbZTVapizaNsEZvAw' 'https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk?si=ja9eYWk-SW-jwqKYe7sjmQ' 'https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG?si=zp6ogLg6QJWY8qRar1388Q' 'https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT?si=Msz9loj3Q0GZuY4tGUJYvw' 'https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU?si=xCVdvdUsRfaFziIyFi6xzA' 'https://open.spotify.com/album/6LMC7ZuVNDUQ0tHpGKdd9K?si=7w0CbePUSPWrmVcDUV870g' 'https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g?si=1bzv8fLcT0mebDY46cxqxQ' 'https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp?si=pgTcCcLnR9eByxtoNAlGjg' 'https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo?si=N8rkaJHsS7-nFsNYOef1vQ' 'https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge?si=IkGUtVjoTGqJ6yNWXJFPWA' 'https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj?si=Pa7lrGezTEGQHr4GDADU0g' 'https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge?si=OU5hma80SASoejXpYInZlg' 'https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL?si=wqbCJNsoREGfAXyIzU7w_g' 'https://open.spotify.com/album/78EcStHa23JPRmLNan5fST?si=EN4uUH9eTYu9Ge6vISbrhw' 'https://open.spotify.com/album/01hp4DvayKlnqUQrmk0vvz?si=IINOKbLyQyOHVYTfz59ILQ' 'https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs?si=njXo8Jl7QjGKr5SOr4U-JA' 'https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF?si=SIWFB06HQQK8qHxO8ExIog' 'https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A?si=pSjzchM5T7uQX7y879mdTw' 'https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ?si=uq6T2s2ETrCJSc-_id2AIQ' 'https://open.spotify.com/album/57ZQAFd01qhJ8VJddshy3I?si=F7ojd6b8SKe1knRdFoRFXw' 'https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK?si=zLRa2zEaScmzc8zsyhgScA' 'https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h?si=LeU7uRSYTcCKTUlII46sXA' 'https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605?si=b0JJhxSbRxeIwOO-cF-qaQ' 'https://open.spotify.com/album/1t9rzuEEFVHPdqRYzsaWC8?si=EgW8JCLeS7Kk8elvoqP7PQ' 'https://open.spotify.com/album/71rrqHKVkUFx2CSVfxrrLs?si=xop0c2Q0S6mpfYUdv3p5QQ' 'https://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w?si=MbZAfwnVSdKAvlAIrF3A0w' 'https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke?si=JoX7_9vZSBSERvbL96UwLA' 'https://open.spotify.com/album/5nKs4LNpHgz0xggy0piMCK?si=oWM3MlJhTxaIPe7HVq5eAw' 'https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV?si=tDJCwhO3S4qg_D1RR-Iv8A' 'https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA?si=TCVg7kRwQ8eiBMrwO_7hHQ' 'https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d?si=jEztF0I7TpKMvy2XBrz2Lg' 'https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6?si=i0RSwgqnQfaPHxkHZsKFmA' 'https://open.spotify.com/album/5doKZJ05r4UbAp9rmpDRDD?si=X3BVOieKQxO7RbJlVfkiHg' 'https://open.spotify.com/album/03kOqFjrxiwkgvj2ExN6ii?si=t3hgDkW1RzK4vrhxJK0_XQ' 
+spot 'https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h?si=K1xlK_tKSUup0tLZYBd0Jw' 'https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV?si=2bFCXbkYQ4e5dbGdooeHhw' 'https://open.spotify.com/album/7wcMxzlZFIxccoeiSix0O2?si=DKV6oi9NT76BT2D8-z_8Xg' 'https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF?si=P9RZfPuyTnWNmtVJsPBkjQ' 'https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF?si=_wmO-Ic5ReCagCPQoR0jfg' 'https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy?si=0AbpGDtGRrqneKrKIgI2ng' 'https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr?si=WE14s4XIRL6QNGqMVcyuhQ' 'https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk?si=hIjCau-1QCKLRosL7prAYw' 'https://open.spotify.com/album/1KwwS07TEbKS8r1rU4UUe4?si=ywrlbW9FRYmqD7qmxYU3qw' 'https://open.spotify.com/album/79fnwKynD56xIXBVWkyaE5?si=J829N8_fQu6wZ3JAhAOKkQ' 'https://open.spotify.com/album/6Q6AwXjxcD7zL8fJMtHVo7?si=vFdRMxL-T4Wx0TS1ScMyDw' 'https://open.spotify.com/album/0KgRZOlXJssqaxzebmdf1w?si=Z_PtrkhkSsqp2tsyKEnyzQ' 'https://open.spotify.com/album/336zShyOVetm0PihSMxnka?si=L3f4u5oHQIuf2UeC-Jv8Vw' 
+rofi -spotify
+P -Rs rofi-mpd rofi-pass rofi-spotify
+P -Rs rofi-mpd rofi-pass rofi-spotify-git
+rofi -pass
+rofi -emoji
+P -S rofi-emoji rofi-calc rofi-mpd rofi-pass rofi-spotify
+rofi -show
+rofi -show combi
+man rofi
+P -S wtype
+rofi -show emoji
+config waybar
+fc-list | grep fira
+fc-list | grep fira -i
+P -Ss rxvt
+P -Ss rxvt-unicode
+pacman -Qs 'fontc|freet|harf'
+ðƒ¿ƒ¸€ðƒ¿ƒ¸€ðƒ¿ƒ¸€
+echo ðƒ¿ƒ¸€ðƒ¿ƒ¸€ðƒ¿ƒ¸€
+P -S symbola
+P -Ss symbola
+P -Rs otf-symbola 
+P -S ttf-dejavu
+P -S otf-symbola
+P -S noto-fonts-emoji
+tremc
+P -Ss kde settings
+P -S systemsettings
+systemsettings5
+P -Rs systemsettings
+P -S breeze
+bc
+v ~c/mpd
+mpc rescan
+mpc list
+mpc list album
+mpc list any
+mpc list name
+mpc list track
+mpc list filename
+mpc list filename Artist
+echo $XDG_MUSIC_DIR
+mpd --hepl
+mpd --help
+mpc update
+c
+cd ncmpcpp
+curl https://raw.githubusercontent.com/LukeSmithxyz/voidrice/master/.config/ncmpcpp/config >> config
+curl https://github.com/LukeSmithxyz/voidrice/raw/master/.config/ncmpcpp/bindings >> bindings
+v bindings
+curl https://raw.githubusercontent.com/LukeSmithxyz/voidrice/master/.config/ncmpcpp/bindings >> bindings
+P -Ss konki
+P -S conky
+h
+h stream
+h fall
+h tmus
+h tmux
+conky --help
+conky --print-config
+sudo systemctl enable conky
+conky
+P -Rs conky
+P -Ss hack
+P -Ss hollywood
+P -S hollywood
+hollyood
+p -Rs btop
+P -S htop
+man hollywood
+nice hollywood
+nmcli device wifi connect Airtel_9552546602_5GHz
+P -S mkchromecast
+vw mkchromecast
+v /usr/share/mkchromecast/mkchromecast/pulseaudio.py
+pacman -Ss alsa
+P -S alsa-utils
+P -S pavucontrol
+P -S pacmd
+P -Ss pacmd
+mkchromecast
+pacmd
+pactl
+vlc
+P -S vlc
+P -Ss vmware
+whatsapp-for-linux
+P -Rs mkchromecast
+P -S obsidian
+P -Ss poppler
+P -S zsthura-pdf-poppler
+P -S zathura-pdf-poppler
+sudo ls /etc/NetworkManager/system-connections
+sudo cd /etc/NetworkManager/system-connections
+sudo cp system-connections/Tanmay.nmconnection VITC-HOS2-4.nmconnection
+V system-connections
+mv VITC-HOS2-4.nmconnection system-connections
+sudo mv VITC-HOS2-4.nmconnection system-connections
+nmcli device wifi list
+nmcli device wifi connect VITC-HOS2-4
+nmcli device wifi connect VITC-HOS2-4 --ask
+P -Ss route
+p -Ss route
+nl-route-add
+nl-route-get
+nl-route-list
+p -S nmgui
+p -Ss nmgui
+P -Ss nmgui
+V /etc/NetworkManager/system-connections
+V /etc/NetworkManager/system-connections/
+v /etc/NetworkManager/system-connections/
+su
+zathura ~d/WIFI-Instructions-New-13.09.22.pdf
+sudo rm /etc/NetworkManager/system-connections/V*
+cd /etc/NetworkManager/system-connections/
+ls system-connections
+sudo ls system-connections
+rm system-connections/V*
+rm system-connections/VITC-HOS2-4.nmconnection
+P -Ss kde network
+hollywood
+cd
+P -S kde-network-meta
+p -S kde-network-meta
+p -Syy
+V /etc/sddm.conf
+V /usr/share/sddm/themes/sugar-candy/Main.qml
+sxiv /usr/share/sddm/themes/sugar-candy/Backgrounds/Custom.png
+zathura BSTS101P_QUANTITATIVE-SKILLS-PRACTICE-I_LO_1.0_65_BSTS101P.pdf
+python
+cat trial.txt
+mkdir trial
+rm trial.txt
+cd trial
+gcc hello.cpp -o hello
+g++ hello.cpp hello
+man g++
+g++ -h
+g++ hello.cpp
+./a.out
+v hello.cpp
+rm trial -r
+sudo ls -a /etc/NetworkManager/system-connections
+cd /etc/NetworkManager/system-connections
+cd /etc/NetworkManager/
+V system-connections/
+V system-connections/VITC-HOS2-4
+sudo ls -oa /etc/NetworkManager/system-connections
+sudo mv system-connections/VITC-HOS2-4 system-connections/VITC-HOS2-4.nmconnection
+nmcli device wifi rescan
+sudo rm system-connections/VITC-HOS2-4.nmconnection
+sudo rm /etc/NetworkManager/system-connections/VITC-HOS2-4.nmconnection
+P -Ss tor browser
+p -S torbrowser-launcher
+sysact
+p -Ss rust
+mkdir rustTutorials
+config
+mkdir helloworld
+cd helloworld
+rustc main.rs
+./main
+P -S rust-analyzer
+cargo new
+cargo new helloCargo
+ls src
+cd helloCargo
+cargo fix
+rm helloCargo
+rm helloCargo -r
+cargo new hello_cargo
+cd hello_cargo/src
+cd targer
+./hello_cargo
+cargo new guessing_game
+cd guessing_game
+v ../Cargo.toml
+v main.rs
+doom install
+doom sync
+asdf
+cd Torrents
+cd 2\ Fast\ 2\ Furious\ \(2003\)\ \[1080p\]
+where swayhide
+vw swayhide
+P -Rs lf-bin
+pacman -Ss bluetooth
+pupd
+popd 
+pushd Downloads
+pushd ../Pictures
+pushd
+cd -
+pushd 3
+pushd 2
+popd 3
+popd 1
+popd
+man case
+case --help
+sh
+cargo --version
+lfcd
+cd rustTutorials
+sudo nvim
+P -Ss vkwc
+P -Ss timywm
+P -Ss tinywl
+tutorials-rust
+tutorials
+where tutorials
+sadpanda
+neovide -- -c source rustTutorials/session
+echo $(echo "" | rofi -dmenu)
+echo a$(echo "" | rofi -dmenu)a
+tutorial
+neovide -- -c "cd /home/tanmay/rustTutorials/trail\
+                  :e src/main.rs\
+                  :vsplit\
+                  :norm l\
+                  :terminal\
+                  i"\
+
+nvim -c "cd /home/tanmay/rustTutorials/trail\
+                  :e src/main.rs\
+                  :vsplit\
+                  :norm l\
+                  :terminal\
+                  i"\
+
+nvim -c "cd /home/tanmay/rustTutorials/trail\
+                  :e src/main.rs\
+                  :vsplit\
+                  :terminal\
+                  i"\
+
+nvim -c "cd /home/tanmay/rustTutorials/trail\
+                  :e src/main.rs\
+                  :vsplit\
+                  :terminal\
+                  A"
+nvim -c "cd /home/tanmay/rustTutorials/trail\
+                  :e src/main.rs\
+                  :vsplit\
+                  :terminal"
+P -S neofetch
+P -S catimg
+time cargo run
+cd VIT
+git init
+git config --global user.name "Tanmay Deshpande"
+git config --global user.email "deshpandetanmay365@gmail.com"
+git add .
+git commit -m "$(date)"
+git remote add origin https://github.com/justACatBuryMe/notes.git\
+git branch -M main\
+git push -u origin main
+rm .git -rf
+neomutt
+P -Rs neomutt
+p -S flatpak flatseal
+p -S flatpak
+electron -h
+electron --help
+electron https://teams.microsoft.com
+cat /etc/resolv.conf
+V /etc/NetworkManager/conf.d/90-dns-none.conf
+sudo rm /etc/NetworkManager/conf.d/90-dns-none.conf
+resolvectl --help
+resolvectl --help dns --help
+resolvectl --help dns 9.9.9.9
+man resolvectl
+journalctl -xeu NetworkManager.service
+sudo systemctl start NetworkManager.service
+V /etc/NetworkManager/NetworkManager.conf
+V /etc/NetworkManager/conf.d/no-dns.conf
+V /etc/resolv.conf
+sudo systemctl restart NetworkManager.service
+flatpak install flatseal
+flatpak install teams-for-linux
+flatpak install teams-for
+flatpak install teams
+flatpak search teams
+flatpak install teams_for_linux
+flatpak install com.github.www.IsmaelMartinez.teams_for_linux
+man flatpal
+flatpak install com.github.IsmaelMartinez.teams_for_linux
+flatpak list | cut -d " " -f 1
+flatpak list | cut -d "\s" -f 1
+flatpak list | cut -d \s -f 1
+flatpak list | cut -d s -f 1
+flatpak list | cut -d \t -f 1
+flatpak list | cut -d "\t" -f 1
+flatpak list | cut -d "\\t" -f 1
+flatpak list | cut -d '\t' -f 1
+flatpak list --app --name
+flatpak list --app name
+flatpak list nam --app
+flatpak list name --app
+flatpak list --app
+flatpak list --app | tr " " ""
+flatpak list --app | tr " " "-"
+flatpak list --app | tr -d " "
+flatpak list --app | cut -d " " -f 1
+flatpak list --app | tr -d " " | cut " " -f 1
+flatpak list --app | tr -d " " | cut -d " " -f 1
+flatpak list --app | tr -d " " | cut -d "com" -f 1
+flatpak list --app | tr -d " " | cut -d "c" -f 1
+flatpak list --app | tr -d " " | cut -d "." -f 1
+flatpak list --app | cut -d "." -f 1
+flatpak list --app | cut -d "." -f 1 | cut -d "\ " -f 1
+flatpak list --app | cut -d "." -f 1 | cut -d "\" -f 1\
+"
+flatpak list --app | cut -d "." -f 1 | cut -d " " -f 1
+flatpak list --app --columns=Name
+flatpak list --app --columns=name
+flatpak list --app --columns=name,id
+flatpak list --app --columns=name,application
+flatpak list --app --columns=name,application | rofi -dmenu
+flatpak list --app --columns=name,application | cut -d " " | rofi -dmenu
+flatpak list --app --columns=name,application | tr -d " "
+flatpak list --app --columns=name,application | tr -d " " | rofi -dmenu
+flatpak list --app --columns=name,application | rofi -dmenu | cut -d " " -f 1
+flatpak list --app --columns=name,application | rofi -dmenu | cut -d " " -f 2
+flatpak list --app --columns=application | rofi -dmenu | cut -d " " -f 2
+flatpak list --app --columns=application | rofi -dmenu
+XDG_DESKTOP_ENVIRONMENT=sway flatpak run org.flameshot.Flameshot
+XDG_CURRENT_DESKTOP=sway flatpak run org.flameshot.Flameshot
+XDG_CURRENT_DESKTOP=wayland flatpak run org.flameshot.Flameshot
+XDG_CURRENT_DESKTOP=Sway flatpak run org.flameshot.Flameshot
+XDG_CURRENT_DESKTOP=wlroots flatpak run org.flameshot.Flameshot
+P -Ss kooha
+P -Ss recapp
+P -S recapp
+flatpak search flameshot
+flatpak install org.flameshot.Flameshot
+p -S python-importlib-metadata
+P -Ss onenote
+flatpak search onenote
+P -Ss richtree
+P -Ss cherrytree
+P -S cherrytree
+P -Su
+P -S calibre
+P -S wayfarer
+cd "$(dirname "$(fzf)")"
+P -Rs wayfarer-git
+cp .local/share/wallpapers/weeb/4666.png /usr/share/sddm/themes/sugar-candy/Backgrounds/Custom.png
+sudo cp .local/share/wallpapers/weeb/4666.png /usr/share/sddm/themes/sugar-candy/Backgrounds/Custom.png
+flatpak lsit
+flatpak list
+cp .local/share/wallpapers/weeb/840.jpg /usr/share/sddm/themes/sugar-candy/Backgrounds/Custom.png
+sudo cp .local/share/wallpapers/weeb/840.jpg /usr/share/sddm/themes/sugar-candy/Backgrounds/Custom.png
+V /etc/pacman.conf
+P -Sy
+P -S winetricks
+P -Ss omnigraffe
+flatpak search omnigraffe
+P -Ss pencil
+P -S pencil-bin 
+P -S pencil
+pencil
+flatpak search xmind | echo
+flatpak search xmind | printf
+flatpak search xmind | print
+print
+print sadf
+flatpak search xmind
+flatpak search flogorithm
+flatpak search flowgorithm
+flatpak install xmind
+fR
+P -Rs pencil
+unzip Flowgorithm-Setup.zip
+mkdir Flowgorithm
+mv setup.exe Flowgorithm
+mv Flowgorithm\ Installer.msi Flowgorithm
+wine -v
+wine --version
+wine
+wine config
+rm .local/share/wineprefixes/default -rf
+P -S zenity wine-mono
+winetricks -v
+cd Flowgorithm
+wine setup.exe
+winecfg
+wine cmd
+up 2
+mkdir WindowsApps
+cd D
+mv Flowgorithm-exe-only.zip ../WindowsApps
+unzip Flowgorithm-exe-only.zip
+v .local/share/wineprefixes/default/drive_c/users/tanmay/Temp/VSDaa5a.tmp/install.log
+h P -S
+h P
+h flatpak
+cd WindowsApps
+wine Flowgorithm.exe
+windows
+mkdir FlowgorithmThemes
+mv All.zip FlowgorithmThemes
+cd FlowgorithmThemes
+unzip All.zip
+ls Computers\ \&\ Technology
+rm Flowgorithm -r
+rm Flowgorithm-Setup.zip
+b
+P -Syu
+ping google.com
+P -S ripgrep
+P -Ss simulide
+P -S simulide
+cd Documents
+z luke_rational.pdf
+zathura luke_rational.pdf
+mkdir latex
+ls | cut -d "e" -f 1
+ls | cut -d "e" -f 1,2
+ls | cut -d "e" -f ,-1
+ls | cut -d "e" -f 1,2,3,4
+P -Rs blueman discord btop emacs ktouch kdenlive obs-studio rofi-mod rofi-pass rofi-spotify-git vlc whatsapp-for-linux tremc
+P -Rs blueman discord btop emacs ktouch kdenlive obs-studio rofi-mpd rofi-pass rofi-spotify-git vlc whatsapp-for-linux tremc
+P -Rs discord btop emacs ktouch kdenlive obs-studio rofi-mpd rofi-pass rofi-spotify-git vlc whatsapp-for-linux tremc
+P -Rs blueman discord btop emacs ktouch rofi-mpd rofi-pass rofi-spotify-git vlc whatsapp-for-linux tremc
+cat deletedstuff
+rm deletedstuff
+P -Rs blueman discord btop emacs ktouch kdenlive obs-studio rofi-mpd rofi-pass rofi-spotify-git vlc whatsapp-for-linux tremc >> deletedstuff
+df /
+cd latex
+pdflatex tutorial.tex
+zathura tutorial.pdf
+ls /home/tanmay/Documents/latex *.tex
+ls /home/tanmay/Documents/latex/ .tex
+ls .tex /home/tanmay/Documents/latex/
+ls *.tex /home/tanmay/Documents/latex/
+ls .*.tex /home/tanmay/Documents/latex/
+ls "tex" /home/tanmay/Documents/latex/
+ls /home/tanmay/Documents/latex/ | grep .tex
+ls /home/tanmay/Documents/latex/ | grep .al
+ls /home/tanmay/Documents/latex/ | grep \.tex
+ls /home/tanmay/Documents/latex/ | grep \.al
+ls /home/tanmay/Documents/latex/ | grep "\.al"
+ls /home/tanmay/Documents/latex/ | grep ".al"
+flatpak uninstall com.github.IsmaelMartinez.teams_for_linux org.flameshot.Flameshot
+P -S ffmpeg lua wayland-protocols
+P -S wayland-protocols
+less deletedstuff
+P -S packer
+cd .cache
+du go-build -h
+P -Rs gimp newsboat vmware-horizon-client
+ping yts.mx
+P -S bluez
+P -S bluez-utils
+sudo systemctl enable --now bluetooth.service
+P -S blueman
+sed -E '' rustTutorials/guessing_game/src/main.rs
+cargo run --release
+lsblk
+pavucontrol
+xterm
+swaymsg -t get_inputs
+libinput record
+v
+sudo libinput record
+P -S qbittorrent
+echo asdf > asdf
+v asdf
+echo asdf >> index
+v index
+rm index asdf
+crontab -e
+cat /etc/pacman.d/mirrorlist
+spot 'https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2?si=ksTje4IGQn2QoNN-0kihjA' 'https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp?si=4qFOxpubRc2Xu50jr8Jy_A' 'https://open.spotify.com/album/6RSpKXfvVzCqtLi6VySxsU?si=y0pV_QClTbqpAx72XvT1yQ' 'https://open.spotify.com/album/2lZP0SqNMiApmn7sPXSRvI?si=XyM6REPnTBeF-ni_KyDRxg' 'https://open.spotify.com/album/399w1uaOvKhnkczdMMZYoy?si=NEkFtvSqQ2G0AW3GDW98uQ' 'https://open.spotify.com/album/0dYHTESEegNj0dkIFGWy2d?si=ileDLCtDS7CbvhAYavW2-g' 'https://open.spotify.com/album/3RSJ0kbP7TxLRqH7BqX8Gl?si=WZ89NwxPRN-opGOYWewg3A' 'https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc?si=bKT9obmgTVui3appKmvwCA' 'https://open.spotify.com/album/0KfIGgasOmBV70OgVTRLHs?si=qkx8tDFeT7iCJdWGgoByTg' 'https://open.spotify.com/album/4PyOq7kavqglGk3cexcygx?si=7RnbolNuSsOfcWIPPzPV6A' 'https://open.spotify.com/album/3DVjLNjzyZBVc8eZcJoulz?si=tKQsbAJjQMGOxe_CLeAJcg' 'https://open.spotify.com/album/1kkb8xlG9yssEVsWKiEtAB?si=e0wFwM8KS4-XCZLaSBe7ow' 
+spot 'https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx?si=nGqrHWwzR1a78DP4FjZQ5Q'
+RUST_BACKTRACE=1 cargo run
+rm .cache/paru/clone/jellyfin-bin -rf
+P -S jellyfin
+sudo systemctl enable --now jellyfin.service
+sudo systemctl status jellyfin.service
+cat /etc/passwd
+chmod --help
+chmod jellyfin +r ./Movies -R
+man chmod
+sudo setfacl -m user:jellyfin:rxw ./Movies -R
+sudo setfacl -m user:jellyfin:rxw ./Movies
+sudo setfacl -R -m user:jellyfin:rxw ./Movies
+sudo setfacl -R -m user:jellyfin:rxw ./
+sudo setfacl -m user:jellyfin:rxw ./
+P -Rs jellyfin-bin
+P -Ss movie
+pkill mpv
+mpv Movies/The\ Lorax\ \(2012\)\ \[1080p\]/The.Lorax.2012.1080p.BluRay.x264.YIFY.mp4
+P -Ss tetris rust
+P -S rusted-tetris-git
+rusted-tetris --help
+rusted-tetris -h
+cd .cache/paru/clone/rusted-tetris-git
+v config
+cd rusted-tetris
+cd branches
+ls */*.rs
+ls */*/*.rs
+ls */.rs
+ls *.rs
+sudo reflector --latest 30 --sort rate --save /etc/pacman.d/mirrorlist --protocol http,https
+P -Syy
+P -S geogebra
+P -S gnuplot
+gnuplot
+gnuplot --gui
+man gnuplot
+P -S gtk4
+cd ~C
+printf "a\nb\nc" | rofi -dmenu
+paru -Ss cpuz
+paru -Ss cpux
+paru -Ss cpu-x
+paru -S cpu-x
+sysact list
+sysact List
+v asdf.rs
+rustc asdf.rs
+./asdf
+rm asdf
+rm asdf.rs
+htop
+cd .local/src/sysact_gui
+mkdir .local/share/sysact
+mv .lopngkey.com-doki-doki-literature-club-1348122.png .local/share/sysact/shutdown.png
+cd sysact
+mv shutdown.png Shutdown.png
+cargo check
+cd rustTutorials/try_stuff
+mkdir ../try_stuff-bin/
+cargo build --release --bin try --verbose --target-dir=../try_stuff-bin
+cargo build --release --verbose --target-dir=../try_stuff-bin
+cd try_stuff-bin
+cd release
+v try_stuff.d
+mv try_stuff ..
+./try_stuff
+man cargo
+cd try_stuff
+where rusted-tetris
+cd sysact_gui
+l
+cd target
+cd debug
+./sysact-gui
+./sysact_gui
+ls 0a
+up 4
+cd srv
+mv sysact_gui sysact_gui.bkp
+cargo new sysact-gui
+mv sysact_gui.bkp/src/main.rs sysact-gui/src/main.rs
+cd sysact-gui
+mkdir /home/tanmay/.local/bin/sysact-gui
+cargo build
+mv ../sysact_gui.bkp/Cargo.toml Cargo.toml
+V Cargo.toml
+v Cargo.toml
+cargo build --release --verbose --target-dir=/home/tanmay/.local/bin/sysact-gui
+sysact-gui
+floating sysact-gui
+P -S android-file-transfer
+P -S whatsapp-for-linux
+P -S pip
+p -S python-pip
+P -Rs libvterm01
+P -S plymouth-git
+flatpak search teams >> searchOutput
+cat searchOutput
+man flatpak
+man brave
+brave --help
+rusted-tetris
+breeze-settings5
+flatpak uninstall net.xmind.XMind
+P -Rs calibre hollywood kdeconnect
+P -Rns calibre hollywood kdeconnect
+flatpak install com.github.IsmaelMartinez.teams_for_linux com.microsoft.Teams
+P -S electron avogadro
+P -getpkgbuild teams-for-linux
+P --getpkgbuild teams-for-linux
+P -S teams-for-linux
+P -S teams
+P -Ss desmos
+xev
+spot 'https://open.spotify.com/album/0TdsEj0Ep5DCtuQ68Pw9Cb?si=cAv16VHhQ6ycvGnuH4ELkA' 'https://open.spotify.com/album/0vINJeraREv5ySgWs57Dko?si=7J1jKa4tQfuZjchdQ77V4Q' 'https://open.spotify.com/album/4v0Xyz0LVToUsSTGdsvKSK?si=chXDrHMbSdKAoANQfkBaCg'
+mkdir Fira
+mv Fira_Code_v6.2.zip Fira
+rm woff* variable_ttf ttf fira_code.css README.txt
+rm woff* variable_ttf ttf fira_code.css README.txt -r
+sxiv schematic-symbols.excalidrawlib
+cd Fira
+unzip Fira_Code_v6.2.zip
+cd variable_ttf
+cd ttf
+mv * ~/.local/share/fonts/Fira\ Code/
+P -Ss font patch
+P -Ss font patcher
+P -Ss font forge
+curl https://raw.githubusercontent.com/ryanoasis/nerd-fonts/master/font-patcher >> font-patcher
+fontforge -script font-patcher .local/share/fonts/comfortaa/*.ttf
+fontforge -script font-patcher .local/share/fonts/comfortaa/Comfortaa-Light.ttf
+fontforge -script font-patcher .local/share/fonts/comfortaa/Comfortaa-Light.ttf --fontawesome --octicons --pomicons
+P -Ss glyphs
+where a
+a
+~c
+cd ~c
+cd src
+echo asdfqwer >> poem.txt
+echo asdaasdf >> poem.txt
+echo qwerqqwr >> poem.txt
+mv poem.txt.bkp poem.txt
+mv poem.txt poem.txt.bkp
+P -Ss vim jedi
+P -S vim-jedi
+python3 vprop.py
+v vprop.py
+P -S emacs
+P -S quadrapassel
+P -Rs rusted-tetris-git
+tetris
+P -Rs tetris
+P -S lockjaw
+P -Ss tetris
+P -S tetris
+P -S geometry dash
+P -Ss geometry dash
+nmtui
+emacsclient -ca notify-send -u critical EMACS
+pkill emacs
+emacs --daemon
+android-file-transfer
+man animate
+P -S gimp
+P -Qe linux
+P -S openbabel eigen
+mpv /dev/video0
+P -Rs openbabel eigen
+P -Rs avogadro-crystals
+man vala
+vala --help
+P -Rs transmission-cli
+P -Rs transmission-qt
+P -Rs qt
+P -Rs quadrapassel
+P -Rs emacs
+P -Qt | less
+man pacman
+mv Downloads/avogadro-1.2.0.tar.gz .local/src/
+cd .local/src
+mkdir ../../bin/avogadro
+rmdir $!
+rmdir ../../bin/avogadro
+cat README
+cat INSTALL
+cmake
+P -Ss qt
+P -S qt4
+cmake ../
+cmake .
+rm avogadro-1.2.0*
+rm avogadro-1.2.0* -rf
+P -S avogadro-crystals
+flatpak install org.openchemistry.Avogadro2
+P -Rs firefox
+py main.py
+nvi
+nvim
+pip install jedi
+nvim asdf.py
+df /home -h
+mkdir latex_tutorials
+P -S latex-most
+P -Ss latex most
+P -S texlive-most
+P -S texlive-most texlive-full
+P
+P -Rs sleek
+P -S firefox
+cargo run
+rofi -mpd
+rofi -show mpd
+recapp
+P -Rs recapp
+P -Rs tremc 
+P -S vmware-horizon-client
+P -Sc
+zbarcam-gtk
+zbarcam-qt
+zbarcam
+zbarcam --help
+man zbarcam
+P -Rs knotifications
+P -Rs kwallet
+P -Rs kio
+P -Rs knewstuff
+P -Rs frameworkintegration
+P -Rs breeze zbarcam
+P -Rs breeze zbar
+P -Rs breeze
+P -S ktouch
+df / -h
+h ktouch
+V /usr/share/sddm/themes/sugar-candy/theme.conf
+sudo cp .local/share/wallpapers/weeb/109167.jpg /usr/share/sddm/themes/sugar-candy/Backgrounds/Custom.png
+python3
+exit
+curl 'https://www.vpropel.in/code-test/attend-pod-test/128' \\
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \\
+  -H 'Accept-Language: en-US,en;q=0.9' \\
+  -H 'Connection: keep-alive' \\
+  -H 'Cookie: username=22BAI1224; sessionid=dfnj9v1o38703zjv5760kumtrg508dsi; csrftoken=Ryej3fsK7zv7trMMyPs80LiWAq4IhppW8In2TLeDmHDH8lf8IIJm8IYGm8g7pa2f; last_connection="2022-10-16 17:22:44.124177"' \\
+  -H 'DNT: 1' \\
+  -H 'Sec-Fetch-Dest: document' \\
+  -H 'Sec-Fetch-Mode: navigate' \\
+  -H 'Sec-Fetch-Site: none' \\
+  -H 'Sec-Fetch-User: ?1' \\
+  -H 'Sec-GPC: 1' \\
+  -H 'Upgrade-Insecure-Requests: 1' \\
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36'  >> cheat
+v cheat
+curl 'https://www.vpropel.in/code-test/attend-pod-test/128' \\
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8' \\
+  -H 'Accept-Language: en-US,en;q=0.9' \\
+  -H 'Connection: keep-alive' \\
+  -H 'Cookie: username=22BAI1224; sessionid=dfnj9v1o38703zjv5760kumtrg508dsi; csrftoken=Ryej3fsK7zv7trMMyPs80LiWAq4IhppW8In2TLeDmHDH8lf8IIJm8IYGm8g7pa2f; last_connection="2022-10-16 17:22:44.124177"' \\
+  -H 'DNT: 1' \\
+  -H 'Sec-Fetch-Dest: document' \\
+  -H 'Sec-Fetch-Mode: navigate' \\
+  -H 'Sec-Fetch-Site: none' \\
+  -H 'Sec-Fetch-User: ?1' \\
+  -H 'Sec-GPC: 1' \\
+  -H 'Upgrade-Insecure-Requests: 1' \\
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36'
+date
+neofetch
+sudo nvim /usr/share/sddm/themes/sugar-candy/theme.conf
+nvim /usr/share/sddm/themes/sugar-candy/theme.conf
+1
+sudo cp .local/share/wallpapers/weeb/crow.jpg /usr/share/sddm/themes/sugar-candy/Backgrounds/Custom.png
+v /usr/share/sddm/themes/sugar-candy/theme.conf
+P -S avogadro-molecules avogadrolibs
+man avogadrolibs
+P -Ss avogadro
+cd .local/bin/appimages
+./Avogadro2-x86_64.AppImage
+P -S avogadroapp
+P -S avogadrolibs-qt5
+P -Rs avogadroapp
+P -S dirmngr
+P -Ss dirmngr
+P -S avogadro
+rm craiyon_190931_among_us_riding_a_my_little_pony.png
+d
+cd VIT/Textbooks
+mv avogadro-1.2.0.tar.gz ~/.local/src
+cd ~/.local/src
+tar -xzf avogadro-1.2.0.tar.gz
+cd avogadro-1.2.0
+v README
+v INSTALL
+mkdir build
+cd build
+P -S openbabel
+P -S openbabel2
+P -Ss openbabel
+cmake ..
+ls -a
+make -j2
+sudo make install
+mv openbabel-2.4.1-6-x86_64.pkg.tar.xz ~S
+S
+mv openbabel-2.4.1-6-x86_64.pkg.tar.xz ~s
+s
+tar -xzf openbabel-2.4.1-6-x86_64.pkg.tar.xz
+tar -xf openbabel-2.4.1-6-x86_64.pkg.tar.xz
+cd op
+tar -xgf openbabel-2.4.1-6-x86_64.pkg.tar.xz
+tar -xxf openbabel-2.4.1-6-x86_64.pkg.tar.xz
+cd usr
+babel
+./babel
+up
+sudo pacman -U usr
+sudo pacman -U openbabel-2.4.1-6-x86_64.pkg.tar.xz
+rm usr -rf
+P -Q eigen
+P -Q openbabel
+rm avogadro-1.2.0* openbabel-2.4.1-6-x86_64.pkg.tar.xz -rf
+rm sysact_gui.bkp avogadro-1.2.0 -rf
+cd WindowsProgramFiles
+cd Avogadro2
+cd bin
+wine avogadro2.exe
+D
+wine Win64.exe.zip
+unzip Win64.exe.zip
+ls
+wine Avogadro2-1.97.0-win64.exe
+i
+python3 main.py
+python -v
+python --version
+python3 --version
+P -S python
+P -
+P -Scc
+p -Rs jedi
+p -Rs python-jedi
+p -Rs vim-jedi
+rofi -show run
+where uninstall
+P -Rs xterm
+rofi -show drun
+P -S avogadrolibs-qt5
+P -S avogadroapp
+P -Scc
+P -Scc sylpheed
+P -S sylpheed
+P -Rns sylpheed
+P -Scc 
+mkdir cpp_tutorials
+ls
+g++ main.cpp
+./a.out
+python3 main.py

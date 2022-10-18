@@ -1,0 +1,4 @@
+#!/bin/sh
+
+choice=$(printf "rust" | rofi -dmenu)
+$( "develop-$choice" )

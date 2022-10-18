@@ -1,0 +1,4 @@
+#!/bin/sh
+
+qbittorrent
+swaynag --message "shutdown?" --button-dismiss yes "sysact shutdown" --button-dismiss no "sysact lock" --font Comfortaa --background ffcccc --text 004444 --button-background ccccff --button-text 444400 --button-border-size 0 --border-bottom-size 0 --button-padding 7

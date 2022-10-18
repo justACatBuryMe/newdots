@@ -1,0 +1,9 @@
+#!/bin/sh
+
+# Syncs repositories and downloads updates, meant to be run as a cronjob.
+
+notify-send "📦 Repository Sync" "Checking for package updates..."
+sudo pacman -Syuw --noconfirm || notify-send "Error downloading updates."
+echo "" > ~/.cache/paru/updates
+echo $(paru -Qu) | sed --regexp-extended "s/\s+\S+\s->\s+\S+(\s|$)+/\n/g" >> ~/.cache/paru/updates
+notify-send "$(wc -l ~/.cache/paru/updates | sed -r "s/\s.+//g") updates available"

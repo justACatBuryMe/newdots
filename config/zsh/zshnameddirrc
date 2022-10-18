@@ -1,0 +1,10 @@
+hash -d C=/home/tanmay/.cache
+hash -d m=/home/tanmay/Music
+hash -d M=/home/tanmay/Movies
+hash -d c=/home/tanmay/.config
+hash -d d=/home/tanmay/Documents
+hash -d D=/home/tanmay/Downloads
+hash -d b=/home/tanmay/.local/bin
+hash -d s=/home/tanmay/.local/src
+hash -d S=/home/tanmay/.local/share
+hash -d f=/home/tanmay/forms

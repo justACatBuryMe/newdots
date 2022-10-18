@@ -1,0 +1,19 @@
+#!/bin/sh
+
+[ $1 == "--help" ] && echo "jobtime [money/cycle] [money/sec] [cycles for prom] [cycles completed]" && exit
+
+mpc=$( bc <<< "scale=4; 1.0*$1" )
+mps=$( bc <<< "scale=4; 1.0*$2" )
+totcyc=$( bc <<< "scale=4; 1.0*$3" )
+comcyc=$( bc <<< "scale=4; 1.0*$4" )
+
+remcyc=$( bc <<< "scale=4; $totcyc-$comcyc" )
+tpc=$( bc <<< "scale=4; $mpc/$mps" )
+
+remt=$( bc <<< "scale=4; $remcyc*$tpc" )
+echo "---- time ----"
+echo $remt seconds
+echo $( bc <<< "scale=4; $remt/60" ) minutes
+echo $( bc <<< "scale=4; $remt/3600" ) hours
+echo $( bc <<< "scale=4; $remt/3600/24" ) days
+echo ""

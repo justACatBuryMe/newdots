@@ -1,0 +1,28 @@
+#!/usr/bin/sh
+
+if [ $1 ]; then
+  conf=$@
+  case $conf in
+    "zsh") $EDITOR -c source $ZDOTDIR/session ;;
+    "$EDITOR") $EDITOR -c source ~/.config/nvim/vrc/session ;;
+    "sway") $EDITOR -c source ~/.config/sway/session ;;
+    "waybar") $EDITOR ~/.config/waybar/config ;;
+    "kitty") $EDITOR ~/.config/kitty/kitty.conf ;;
+    "sudo") sudo EDITOR=$EDITOR visudo ;;
+    "binaries") $EDITOR ~/.local/bin ;;
+    "config folder") $EDITOR ~/.config ;;
+    *) exit 1 ;;
+  esac
+else
+  conf=$(printf "zsh\n$IDE\nsway\nwaybar\nkitty\nbinaries\nconfig folder" | rofi -dmenu -i -p 'Config')
+  case $conf in
+    "zsh") $IDE -- -c source $ZDOTDIR/session ;;
+    "$IDE") $IDE -- -c source ~/.config/nvim/vrc/session ;;
+    "sway") $IDE -- -c source ~/.config/sway/session ;;
+    "waybar") $IDE -- -c source ~/.config/waybar/session ;;
+    "kitty") $IDE -- ~/.config/kitty/kitty.conf ;;
+    "binaries") $IDE ~/.local/bin ;;
+    "config folder") $IDE ~/.config ;;
+    *) exit 1 ;;
+  esac
+fi

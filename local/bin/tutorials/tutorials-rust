@@ -1,0 +1,17 @@
+#!/bin/sh
+
+folder=$( echo $(ls /home/tanmay/rustTutorials) create-new | tr " " "\n" | tr "-" " " | rofi -dmenu )
+
+[[ $folder ]] || exit
+
+if [[ $folder == "create new" ]]; then
+  cd /home/tanmay/rustTutorials
+  folder=$( printf "" | rofi -dmenu -p name )
+  [[ $folder ]] || exit
+  cargo new $folder
+fi
+
+neovide -- -c "cd /home/tanmay/rustTutorials/$folder
+                  :e src/main.rs
+                  :vsplit
+                  :terminal"

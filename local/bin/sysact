@@ -1,0 +1,20 @@
+#!/bin/sh
+
+choices="Lock\nSleep\nShutdown\nReboot\nLeave $WM\nRenew $WM\nList"
+
+if [ $1 ]; then # If arguement passed, do the thing
+	choice=$1
+else
+	choice=$(printf $choices | rofi -dmenu -i -p 'Action: ') # rofi choice
+fi
+
+case $choice in
+	"Lock") swaylock ;;
+	"Sleep") systemctl suspend ;;
+	"Shutdown") shutdown now ;;
+	"Reboot") reboot ;;
+	"Leave $WM") swaymsg exit;;
+	"Renew $WM") swaymsg reload ;;
+	"List") printf $choices ;;
+	*) exit 1 ;;
+esac

@@ -1,0 +1,8 @@
+daemonize
+ignore-empty-password
+show-failed-attempts
+clock
+indicator
+fade-in=1
+image=/home/tanmay/.local/share/wallpapers/weeb/crow.jpg
+effect-blur=10x2

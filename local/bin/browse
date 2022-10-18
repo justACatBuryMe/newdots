@@ -1,0 +1,10 @@
+#!/usr/bin/sh
+
+echo "link : "
+read link
+
+if [[ $link -eq "" ]]; then
+  link="google.com"
+fi
+
+w3m $link

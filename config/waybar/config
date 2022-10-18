@@ -1,0 +1,152 @@
+{
+    // "layer": "top", // Waybar at top layer
+    "position": "top", // Waybar position (top|bottom|left|right)
+    // "height": 30, // Waybar height (to be removed for auto height)
+    // "width": 1350, // Waybar width
+    "spacing": 0, // Gaps between modules (4px)
+
+    // Choose the order of the modules
+    "modules-left": ["idle_inhibitor", "sway/workspaces", "sway/window"],
+    "modules-center": ["mpd", "network", "backlight", "pulseaudio", "clock"],
+    "modules-right": ["tray"],
+
+    // "sway/workspaces": {
+    //     "persistent_workspaces": {
+    //         "1": [],
+    //         "2": [],
+    //         "3": [],
+    //         "4": [],
+    //         "5": [],
+    //         "6": [],
+    //         "7": [],
+    //         "8": [],
+    //         "9": [],
+    //         "10": [],
+    //     },
+    // },
+    "mpd": {
+        "format": "{stateIcon} {title} ",
+        "format-disconnected": "Disconnected ",
+        "format-stopped": "",
+        "unknown-tag": "N/A",
+        "interval": 5,
+        "consume-icons": {
+            "on": " "
+        },
+        "random-icons": {
+            "off": "<span color=\"#f53c3c\"></span> ",
+            "on": " "
+        },
+        "repeat-icons": {
+            "on": " "
+        },
+        "single-icons": {
+            "on": "1 "
+        },
+        "state-icons": {
+            "paused": "",
+            "playing": ""
+        },
+        // "title-len": 20,
+        // "tooltip-format": "{title}",
+        // "tooltip-format-disconnected": "DISCONNECTED",
+        "tooltip": false,
+        "on-click": "mpc toggle",
+        "on-click-middle": "kitty ncmpcpp",
+        "on-click-right": "mpc update",
+        "on-scroll-up": "mpc prev",
+        "on-scroll-down": "mpc next",
+    },
+    "idle_inhibitor": {
+        // "rotate": 25,
+        "format": "{icon}",
+        "format-icons": {
+            "activated": "",
+            "deactivated": ""
+        },
+        "tooltip": false,
+    },
+    "network": {
+        "format-wifi": "{essid} ",
+        "format-ethernet": "{ipaddr}/{cidr} ",
+        "format-linked": "{ifname} (No IP) ",
+        "format-disconnected": "Disconnected ⚠",
+        "tooltip": false,
+        "on-click": "nmcli device wifi rescan && kitty nmtui"
+    },
+    "memory": {
+        "format": "{percentage}% | {swapPercentage}%"
+    },
+    "battery": {
+        "states": {
+            "good": 90,
+            "warning": 30,
+            "critical": 15
+        },
+        "format": "{capacity}% {icon}",
+        "format-charging": "{capacity}% ",
+        "format-plugged": "{capacity}% ",
+        "format-alt": "{time} {icon}",
+        // "format-good": "", // An empty format will hide the module
+        "format-icons": ["", "", "", "", ""],
+    },
+    "battery#bat2": {
+        "bat": "BAT2"
+    },
+    "backlight": {
+        // "device": "acpi_video1",
+        "format": "{percent}% {icon}",
+        "format-icons": ["", "", "", "", "", "", "", "", ""]
+    },
+    "pulseaudio": {
+        // "scroll-step": 1, // %, can be a float
+        "format": "{volume}% {icon}",
+        "format-alt": "{format_source}",
+        "format-bluetooth": "{volume}% {icon} {format_source}",
+        "format-bluetooth-muted": " {icon} {format_source}",
+        "format-muted": " {format_source}",
+        "format-source": "{volume}% ",
+        "format-source-muted": "",
+        "format-icons": {
+            "headphone": "",
+            "hands-free": "",
+            "headset": "",
+            "phone": "",
+            "portable": "",
+            "car": "",
+            "default": ["", "", ""]
+        },
+        "tooltip": false,
+        "on-click-right": "pavucontrol",
+    },
+    "clock": {
+        "timezone": "Asia/Kolkata",
+        "tooltip-format": "<big>{:%A, %B %d}</big>\n<tt><small>{calendar}</small></tt>",
+        "format": "{:%I:%M %p}",
+        "format-alt": "{:%R}"
+    },
+    "sway/window": {
+        "icon": true,
+        "icon-size": 18,
+        "align": 0,
+        "tooltip": false,
+        "rewrite": {
+            "(.*) - (.*) - Brave": "$1",
+            "(.*) - Brave": "$1",
+            "(.*) - Obsidian .*": "$1",
+        },
+    },
+    "tray": {
+        // "rotate": 45,
+        "icon-size": 18,
+        "spacing": 6
+    },
+    "custom/start": {
+        // "rotate": 30,
+        "exec": "echo ",
+        "interval": "once",
+        "on-click": "rofi -show run",
+        "on-click-right": "sysact",
+        "tooltip": false,
+    },
+}

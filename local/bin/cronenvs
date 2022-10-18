@@ -1,0 +1,10 @@
+#!/bin/sh
+
+touch $XDG_CONFIG_HOME/dconf/dbusforcron
+chmod 600 $XDG_CONFIG_HOME/dconf/dbusforcron
+env | grep DBUS_SESSION_BUS_ADDRESS > $XDG_CONFIG_HOME/dconf/dbusforcron
+env | grep DISPLAY >> $XDG_CONFIG_HOME/dconf/dbusforcron
+env | grep XAUTHORITY >> $XDG_CONFIG_HOME/dconf/dbusforcron
+env | grep XDG_RUNTIME_DIR >> $XDG_CONFIG_HOME/dconf/dbusforcron
+echo 'export DBUS_SESSION_BUS_ADDRESS; export WAYLAND_DISPLAY; export DISPLAY; export XAUTHORITY; export XDG_RUNTIME_DIR' >> $XDG_CONFIG_HOME/dconf/dbusforcron
+exit 0

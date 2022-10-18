@@ -1,0 +1,17 @@
+#!/bin/sh
+
+folder=$( echo $(ls /home/tanmay/.local/src) create-new | tr " " "\n" | rofi -dmenu )
+
+[[ $folder ]] || exit
+
+if [[ $folder == "create new" ]]; then
+  cd /home/tanmay/.local/src
+  folder=$( printf "" | rofi -dmenu -p name )
+  [[ $folder ]] || exit
+  cargo new $folder
+fi
+
+neovide -- -c "cd /home/tanmay/.local/src/$folder
+                  :e src/main.rs
+                  :vsplit
+                  :terminal"

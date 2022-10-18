@@ -1,0 +1,271 @@
+# sway does not set DISPLAY/WAYLAND_DISPLAY in the systemd user environment
+# See FS#63021
+# Adapted from xorg's 50-systemd-user.sh, which achieves a similar goal.
+
+exec systemctl --user import-environment DISPLAY WAYLAND_DISPLAY SWAYSOCK XDG_CURRENT_DESKTOP &
+exec blueman-applet
+exec emacs --daemon
+exec hash dbus-update-activation-environment 2>/dev/null && \
+     dbus-update-activation-environment --systemd DISPLAY WAYLAND_DISPLAY SWAYSOCK XDG_CURRENT_DESKTOP &
+exec syncthing --no-browser &
+exec mpd &
+exec cronenvs &
+exec mako
+exec swayidle -w \
+  timeout 300 'sysact Lock' \
+  resume 'swaymsg "output * dpms on"' \
+  before-sleep 'sysact Lock' &
+
+  # timeout 300 'swaylock -f -i wallpapers/current'
+
+set $mod Mod4
+set $browser brave
+set $left h
+set $down j
+set $up k
+set $right l
+set $term kitty
+set $menu rofi -show drun
+
+output * bg /home/tanmay/.local/share/wallpapers/weeb/crow.jpg fill
+# output * bg /usr/share/sddm/themes/sugar-candy/Backgrounds/Colorful Dune.jpg fill
+
+input "2:7:SynPS/2_Synaptics_TouchPad" {
+      dwt enabled
+      tap enabled
+      natural_scroll enabled
+      middle_emulation enabled
+  }
+  input "type:keyboard" xkb_options caps:super,altwin:menu_win,shift:both_capslock
+
+### Switch bindings
+
+    bindswitch lid:on exec sysact Lock
+
+### Key bindings
+
+    bindsym $mod+a exec flatrun
+    bindsym $mod+Shift+a exec appimagerun
+    # bindsym $mod+Ctrl+a exec
+    # bindsym $mod+Ctrl+Shift+a exec
+
+    bindsym $mod+b exec bindings
+    # bindsym $mod+Shift+b exec
+    # bindsym $mod+Ctrl+b exec
+    # bindsym $mod+Ctrl+Shift+b exec
+
+    bindsym $mod+c exec config
+    bindsym $mod+Shift+c reload
+    # bindsym $mod+Ctrl+c exec
+    # bindsym $mod+Ctrl+Shift+c exec
+
+    # bindsym $mod+d exec floating $term nvim -c VimwikiIndex
+    # bindsym $mod+Shift+d exec floating $term nvim -c VimwikiDiaryIndex
+    # bindsym $mod+Ctrl+d exec
+    # bindsym $mod+Ctrl+Shift+d exec
+
+    bindsym $mod+e exec rofi -show emoji
+    # bindsym $mod+Shift+e exec floating mw -Y && $term neomutt
+    # bindsym $mod+Ctrl+e exec
+    # bindsym $mod+Ctrl+Shift+e exec
+
+    bindsym $mod+f fullscreen
+    bindsym $mod+Shift+f exec EDITOR=nvim floating $term ranger
+    # bindsym $mod+Ctrl+f exec
+    # bindsym $mod+Ctrl+Shift+f exec
+
+    # bindsym $mod+g exec play
+    # bindsym $mod+Shift+g exec
+    # bindsym $mod+Ctrl+g exec
+    # bindsym $mod+Ctrl+Shift+g exec
+
+    # bindsym $mod+Ctrl+Shift+h exec
+
+    bindsym $mod+i exec wifi
+    # bindsym $mod+Shift+i exec
+    # bindsym $mod+Ctrl+i exec
+    # bindsym $mod+Ctrl+Shift+i exec
+
+    # bindsym $mod+Ctrl+Shift+j exec
+
+    bindsym $mod+Ctrl+Shift+k exec killall -u tanmay
+
+    # bindsym $mod+Ctrl+Shift+l exec
+
+    bindsym $mod+m exec floating $term ncmpcpp
+    bindsym $mod+Shift+m exec macho
+    # bindsym $mod+Ctrl+m exec
+    # bindsym $mod+Ctrl+Shift+m exec
+
+    bindsym $mod+n exec ide
+    # bindsym $mod+Shift+n exec floating $term newsboat
+    # bindsym $mod+Ctrl+n exec
+    # bindsym $mod+Ctrl+Shift+n exec
+
+    bindsym $mod+o exec obsidian
+    # bindsym $mod+Shift+o exec
+    # bindsym $mod+Ctrl+o exec
+    # bindsym $mod+Ctrl+Shift+o exec
+
+    bindsym $mod+p exec mpc toggle
+    # bindsym $mod+Shift+p exec
+    # bindsym $mod+Ctrl+p exec
+    # bindsym $mod+Ctrl+Shift+p exec
+
+    bindsym $mod+q kill
+    # bindsym $mod+Shift+q exec qbittorrent
+    # bindsym $mod+Ctrl+q exec
+    # bindsym $mod+Ctrl+Shift+q exec
+
+    bindsym $mod+r exec tutorial
+    # bindsym $mod+Shift+r exec develop
+    # bindsym $mod+Ctrl+r exec
+    # bindsym $mod+Ctrl+Shift+r exec
+
+    bindsym $mod+s exec syncthing --browser-only
+    # bindsym $mod+Shift+s gaps outer 5
+    # bindsym $mod+Ctrl+s exec
+    # bindsym $mod+Ctrl+Shift+s exec
+
+    bindsym $mod+t layout toggle split
+    bindsym $mod+Shift+t layout tabbed
+    # bindsym $mod+Ctrl+t exec
+    # bindsym $mod+Ctrl+Shift+t exec
+
+    # bindsym $mod+u exec updates
+    # bindsym $mod+Shift+u exec
+    # bindsym $mod+Ctrl+u exec
+    # bindsym $mod+Ctrl+Shift+u exec
+
+    bindsym $mod+v splith
+    bindsym $mod+Shift+v splitv
+    # bindsym $mod+Ctrl+v indicator
+    # bindsym $mod+Ctrl+Shift+v exec
+
+    bindsym $mod+w exec $browser
+    bindsym $mod+Shift+w exec $browser teams.microsoft.com
+    # bindsym $mod+Ctrl+w exec
+    # bindsym $mod+Ctrl+Shift+w exec
+
+    # bindsym $mod+x sticky toggle
+    # bindsym $mod+Shift+x exec
+    # bindsym $mod+Ctrl+x exec
+    # bindsym $mod+Ctrl+Shift+x exec
+
+    bindsym $mod+y exec QT_QPA_PLATFORM=xcb ktouch
+    # bindsym $mod+Shift+y exec
+    # bindsym $mod+Ctrl+y exec
+    # bindsym $mod+Ctrl+Shift+y exec
+
+    bindsym $mod+z exec windows
+    # bindsym $mod+Shift+z gaps inner minus 2
+    # bindsym $mod+Ctrl+z exec
+    # bindsym $mod+Ctrl+Shift+z exec
+
+    bindsym $mod+f1 exec flatpak run org.flameshot.Flameshot
+    bindsym $mod+f2 exec recapp
+    # bindsym $mod+f3 exec
+    # bindsym $mod+f4 exec
+    # bindsym $mod+f5 exec
+    # bindsym $mod+f6 exec
+    # bindsym $mod+f7 exec
+    # bindsym $mod+f8 exec
+    # bindsym $mod+f9 exec
+    # bindsym $mod+f10 exec
+    # bindsym $mod+f11 exec kooha
+    # bindsym $mod+f12 exec screenshot
+
+    bindsym XF86_AudioMute exec pamixer -t
+    bindsym XF86_AudioMicMute exec pactl set-source-mute @DEFAULT_SOURCE@ toggle
+    bindsym XF86_AudioRaiseVolume exec pamixer --allow-boost -i 1
+    bindsym XF86_AudioLowerVolume exec pamixer --allow-boost -d 1
+
+    bindsym XF86_MonBrightnessUp exec light -A 1
+    bindsym XF86_MonBrightnessDown exec light -U 1
+
+    bindsym $mod+equal exec pamixer -i 5
+    bindsym $mod+Shift+equal exec light -A 5
+
+    bindsym $mod+minus exec pamixer -d 5
+    bindsym $mod+Shift+minus exec light -U 5
+
+    bindsym $mod+Return exec $term
+    bindsym $mod+Shift+Return exec $menu
+    bindsym $mod+Ctrl+Return exec rofi -show run
+
+    bindsym $mod+Backspace exec sysact
+
+    floating_modifier $mod normal
+
+    bindsym $mod+SemiColon exec rofi -show calc -no-show-match -no-sort
+
+    bindsym $mod+space focus mode_toggle
+    bindsym $mod+Shift+space floating toggle
+
+    bindsym $mod+Tab scratchpad show
+    bindsym $mod+Shift+Tab move scratchpad
+
+
+    bindsym $mod+$left focus left
+    bindsym $mod+$down focus down
+    bindsym $mod+$up focus up
+    bindsym $mod+$right focus right
+
+    bindsym $mod+Shift+$left move left
+    bindsym $mod+Shift+$down move down
+    bindsym $mod+Shift+$up move up
+    bindsym $mod+Shift+$right move right
+
+    bindsym $mod+Ctrl+$left resize shrink width 10px
+    bindsym $mod+Ctrl+$down resize grow height 10px
+    bindsym $mod+Ctrl+$up resize shrink height 10px
+    bindsym $mod+Ctrl+$right resize grow width 10px
+
+    bindsym $mod+Left focus left
+    bindsym $mod+Down focus down
+    bindsym $mod+Up focus up
+    bindsym $mod+Right focus right
+
+    bindsym $mod+Shift+Left move left
+    bindsym $mod+Shift+Down move down
+    bindsym $mod+Shift+Up move up
+    bindsym $mod+Shift+Right move right
+
+    bindsym $mod+Ctrl+Left resize shrink width 10px
+    bindsym $mod+Ctrl+Down resize grow height 10px
+    bindsym $mod+Ctrl+Up resize shrink height 10px
+    bindsym $mod+Ctrl+Right resize grow width 10px
+
+    bindsym $mod+1 workspace number 1
+    bindsym $mod+2 workspace number 2
+    bindsym $mod+3 workspace number 3
+    bindsym $mod+4 workspace number 4
+    bindsym $mod+5 workspace number 5
+    bindsym $mod+6 workspace number 6
+    bindsym $mod+7 workspace number 7
+    bindsym $mod+8 workspace number 8
+    bindsym $mod+9 workspace number 9
+    bindsym $mod+0 workspace number 10
+
+    bindsym $mod+Shift+1 move container to workspace number 1
+    bindsym $mod+Shift+2 move container to workspace number 2
+    bindsym $mod+Shift+3 move container to workspace number 3
+    bindsym $mod+Shift+4 move container to workspace number 4
+    bindsym $mod+Shift+5 move container to workspace number 5
+    bindsym $mod+Shift+6 move container to workspace number 6
+    bindsym $mod+Shift+7 move container to workspace number 7
+    bindsym $mod+Shift+8 move container to workspace number 8
+    bindsym $mod+Shift+9 move container to workspace number 9
+    bindsym $mod+Shift+0 move container to workspace number 10
+
+default_border pixel 4
+
+popup_during_fullscreen smart
+
+show_marks yes
+
+# gaps inner 8
+
+bar {
+    swaybar_command waybar
+}

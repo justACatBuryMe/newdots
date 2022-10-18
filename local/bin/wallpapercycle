@@ -1,0 +1,16 @@
+#!/usr/bin/sh
+
+prefix=/home/tanmay/wallpapers
+wallpapers=$(ls $prefix/cycle)
+
+[[ -f $prefix/index ]] || touch $prefix/index
+
+index=$(( $(head $prefix/index -n 1) + 1 ))
+[ $index -gt $(ls $prefix/cycle | wc -l) ] && index=1
+
+wallpaper=$prefix/cycle/$( echo $wallpapers | cut -d " " -f $index )
+
+echo $index > $prefix/index
+echo $wallpaper >> $prefix/index
+# sudo cp $wallpaper /usr/share/sddm/themes/sugar-candy/Backgrounds/current
+cp $wallpaper $prefix/current

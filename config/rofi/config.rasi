@@ -1,0 +1,9 @@
+configuration {
+    display-run: "Application: ";
+    run-display-format: "{icon} {name}";
+    font: "Comfortaa Light 14";
+    modi: "drun,run,calc,emoji";
+    icon-theme: "Adwaita";
+}
+
+@theme "/usr/share/rofi/themes/gruvbox-dark.rasi"

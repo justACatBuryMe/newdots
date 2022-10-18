@@ -1,0 +1,12 @@
+# vim: filetype=sh
+alias \
+  C="cd /home/tanmay/.cache && ls -a" \
+  m="cd /home/tanmay/Music && ls -a" \
+  M="cd /home/tanmay/Movies && ls -a" \
+  d="cd /home/tanmay/Documents && ls -a" \
+  D="cd /home/tanmay/Downloads && ls -a" \
+  c="cd /home/tanmay/.config && ls -a" \
+  b="cd /home/tanmay/.local/bin && ls -a" \
+  s="cd /home/tanmay/.local/src && ls -a" \
+  S="cd /home/tanmay/.local/share && ls -a" \
+  f="cd /home/tanmay/forms && ls -a" \

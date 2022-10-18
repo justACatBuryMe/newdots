@@ -1,0 +1,5 @@
+source ~/.vim/vrc/plugins.vim
+source ~/.vim/vrc/pluginconfig.vim
+source ~/.vim/vrc/general.vim
+source ~/.vim/vrc/remaps.vim
+source ~/.vim/vrc/autocompile.vim

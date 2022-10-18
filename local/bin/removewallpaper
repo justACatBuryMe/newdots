@@ -1,0 +1,8 @@
+#!/bin/sh
+
+prefix=/home/tanmay/wallpapers
+
+mv $(head -n 2 $prefix/index) $prefix/backup
+echo $(( $(head -n 1 $prefix/index) - 1 )) > $prefix/index
+wallpapercycle
+swaymsg reload

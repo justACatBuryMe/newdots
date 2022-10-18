@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+
+cp $1 ~/wallpapers/cycle/

@@ -1,0 +1,4 @@
+#!/bin/sh
+
+
+flatpak run $(flatpak list --app --columns=application | rofi -dmenu)

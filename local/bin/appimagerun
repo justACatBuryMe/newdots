@@ -1,0 +1,4 @@
+#!/bin/sh
+
+name = $(ls /home/tanmay/.local/bin/appimages/ | rofi -dmenu)
+/home/tanmay/.local/bin/appimages/$name

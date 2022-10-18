@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+
+notify-send $(cat ~/.cache/paru/updates | rofi -dmenu)

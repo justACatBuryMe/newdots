@@ -1,0 +1,8 @@
+#!/bin/bash
+
+checkup
+updates=$(paru -Qu | wc -l)
+notify-send "updating $updates packages" -t 0
+paru -Su --noconfirm || notify-send "Update failed" --urgency=critical
+echo "" > ~/.cache/paru/updates
+notify-send "updates over" -t 0

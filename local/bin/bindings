@@ -1,0 +1,11 @@
+#!/bin/sh
+
+bindings=""
+
+while IFS= read -r i; do
+  if [[ $(echo $i | cut -c 1) != "#" && $(echo $i | cut -d " " -f 1) == "bindsym" ]]; then
+    bindings=$bindings:$i
+  fi
+done < "$XDG_CONFIG_HOME/sway/config"
+
+echo $bindings | tr ":" "\n" | sed -r "s/^s*.*bindsym//; s/exec/\|/" | rofi -dmenu

@@ -1,0 +1,19 @@
+#!/bin/sh
+
+folder=$( echo $(ls /home/tanmay/cpp_tutorials) create-new | tr " " "\n" | tr "-" " " | rofi -dmenu )
+
+[[ $folder ]] || exit
+
+if [[ $folder == "create new" ]]; then
+  cd /home/tanmay/cpp_tutorials
+  folder=$( printf "" | rofi -dmenu -p name )
+  [[ $folder ]] || exit
+  mkdir $folder
+  cd $folder
+  touch main.cpp
+fi
+
+neovide -- -c "cd /home/tanmay/cpp_tutorials/$folder
+                  :e main.cpp
+                  :vsplit
+                  :terminal"

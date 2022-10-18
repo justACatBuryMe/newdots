@@ -1,0 +1,5 @@
+#!/bin/sh
+
+case $(printf "neovide" | rofi -dmenu) in
+  "neovide") neovide ;;
+esac

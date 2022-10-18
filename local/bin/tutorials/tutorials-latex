@@ -1,0 +1,18 @@
+#!/bin/sh
+
+name=$( echo $(ls /home/tanmay/latex_tutorials/ ) create-new | tr " " "\n" | tr "-" " " | rofi -dmenu )
+
+[[ $name ]] || exit
+
+if [[ $name == "create new" ]]; then
+  cd /home/tanmay/latex_tutorials/
+  name=$( printf "" | rofi -dmenu -p name )
+  [[ $name ]] || exit
+  mkdir $name
+  cd $name
+  touch "$name".tex
+fi
+
+neovide -- -c "cd /home/tanmay/latex_tutorials
+                :e $name/$name.tex"
+zathura /home/tanmay/latex_tutorials/$name/$name.tex

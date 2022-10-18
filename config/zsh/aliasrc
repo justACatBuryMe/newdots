@@ -1,0 +1,39 @@
+# Verbosity and settings that you pretty much just always are going to want.
+alias \
+	cp="cp -iv" \
+	mv="mv -iv" \
+	rm="rm -vI" \
+	bc="bc -l" \
+	mkdir="mkdir -pv" \
+	ffmpeg="ffmpeg -hide_banner"
+
+# Colorize commands when possible.
+alias \
+	ls="ls -hN --color=auto --group-directories-first" \
+	grep="grep --color=auto" \
+
+# These common commands are just too long! Abbreviate them.
+alias \
+	g="git clone" \
+	v="$EDITOR" \
+	V="sudo $EDITOR" \
+	p="sudo pacman" \
+	P="paru" \
+
+# # Swallow
+# alias \
+# 	mpv="swayhide mpv" \
+# 	sxiv="swayhide sxiv" \
+# 	qbittorrent="swayhide qbittorrent" \
+# 	z="swayhide zathura" \
+
+# lf fix
+# alias \
+# 	lf="lfub" \
+
+# history search
+alias \
+	h="cat $ZDOTDIR/history | grep" \
+
+alias \
+	ktouch="QT_QPA_PLATFORM=xcb ktouch"

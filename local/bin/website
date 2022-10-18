@@ -1,0 +1,4 @@
+#!/usr/bin/sh
+echo "website - "
+read website
+w3m $website
